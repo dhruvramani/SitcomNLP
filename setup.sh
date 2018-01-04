@@ -5,7 +5,7 @@ mkdir data/dump
 #mkdir data/testi
 #touch data/testi/laughtime.txt
 #touch data/testi/transtime.txt
-mkdir data/subtitles
+#mkdir data/subtitles
 
 sudo apt-get install ffmpeg
 pip install moviepy
