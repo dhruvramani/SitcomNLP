@@ -2,12 +2,10 @@ import os
 import time
 import pickle
 from datetime import datetime
-#from pydub import AudioSegment
-#from pydub.playback import play
 import moviepy.editor as mp
 
-def get_subsentence(timestep, filepath):
-    with open(filepath, "r") as f:
+def get_subsentence(timestep, subfilepath, laugh=False):
+    with open(subfilepath, "r") as f:
         text = f.read().split("\n\n")
         for i in text:
             contents = i.split("\n")
@@ -17,11 +15,11 @@ def get_subsentence(timestep, filepath):
             if(time1 <= timestep and timestep <= time2):
                 return contents[2:]
 
-def get_sentence(subsentence, filepath):
-    with open(filepath, "r" ) as f:
+def get_sentence(subsentence, transpath,laugh=False):
+    with open(transpath, "r" ) as f:
         text = f.read().split("\n\n")
-        return [sent for sent in text if subsentence in sent][0]
-
+        sentence = [sent for sent in text if subsentence in sent][0]
+        return sentence
 
 def vidtomp3(filename):
     # SOURCE : https://stackoverflow.com/questions/33448759/python-converting-video-to-audio
@@ -35,26 +33,27 @@ def vidtowav(filename):
     os.system(command)
     return "./data/audio/{}_audio.wav".format(filename)
 
+def detect_laughter(wavpath):
+    os.system("python laughter-detection/segment_laughter.py {} laughter-detection/models/new_model.h5 data/dump > data/testii/laughtime.txt")
+    with open("data/testi/laughtime.txt", "r") as f:
+        return str(f.read())
+    # Might process timesteps
+
+def timefortrans(transpath, wavpath):
+    with open(transpath, "r") as f:
+        with open("{}.tmp".format(transpath), "w+") as wr:
+            for line in f:
+                if("Scene" not in line and ":" in line):
+                    wr.write("{}\n".format(line.split(" : ")))
+
+    os.system("python gentle/align.py {} {}.tmp > ./data/testi/transtime.txt".format(wavpath, transpath))
+    os.system("rm {}.tmp".format(transpath))
+
 '''
-def remvocal(filename):
-    # SOURCE : https://stackoverflow.com/questions/3673042/algorithm-to-remove-vocal-from-sound-track
-    myAudioFile = AudioSegment.from_mp3(filename)
-    sound_stereo = AudioSegment.from_file(myAudioFile, format="mp3")
-    sound_monoL = sound_stereo.split_to_mono()[0]
-    sound_monoR = sound_stereo.split_to_mono()[1]
-    sound_monoR_inv = sound_monoR.invert_phase()
-    sound_CentersOut = sound_monoL.overlay(sound_monoR_inv)
-    sound_CentersOut.export("{}_novocal".format(filename), format="mp3")
-    return "{}_novocal.mp3".format(filename)
-'''
-
-def detect_laughter(wavfilepath):
-
-    return timesteps
-
 def main(datasetpath, vidfilepath, subfilepath, transpath):
     wavpath = vidtowav(vidfilepath)
-    timesteps = detect_laughter(wavfilepath)
+    timesteps = detect_laughter(wavpath)
+    trans_time = timefortans(transpath, wavpath)
     sentences = list()
     for timestep in timesteps:
         subsentences = get_subsentence(timestep, subfilepath)
@@ -64,10 +63,13 @@ def main(datasetpath, vidfilepath, subfilepath, transpath):
     with open(datasetpath, "w") as datf:
         with open(transpath, "r") as transf:
             for line in transf:
+                line = line.rstrip()
+                #line +
                 if(line in sentences):
-                    line = line.rstrip()
-                    line += " LAUGH LAUGH\n"
+                    line += " LAUGH"
+                #line += 
                 datf.write(line)
-
+'''
 if __name__ == '__main__':
     wavpath = vidtowav("S08E01")
+    timefortrans("./data/transcripts/S08E01.txt", wavpath)
