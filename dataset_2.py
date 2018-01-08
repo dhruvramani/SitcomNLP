@@ -113,8 +113,8 @@ def transcripttimestamp(transpath, subpath, newpath):
     return output
 
 if __name__ == '__main__':
-    transpath = "./data/transcripts/small.txt"                                                                                                                
-    subpath = "./data/subtitles/small.srt"                                                                                                                    
-    newpath = "./data/new.txt"  
+    transpath = "./small.txt"                                                                                                                
+    subpath = "./small.srt"                                                                                                                    
+    newpath = "./new.txt"  
     os.system("rm -rf {}".format(newpath))                                                                                                                              
     transcripttimestamp(transpath, subpath, newpath)
