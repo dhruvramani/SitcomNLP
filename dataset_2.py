@@ -1,4 +1,5 @@
 import os
+import re
 
 def unicodetoascii(text):
     TEXT = (text.
@@ -35,12 +36,14 @@ def unicodetoascii(text):
 # TODO if not found go to next 4 words
 def get_timestamp(subtext, to_search):
     try :
+        print(to_search)
         x =  [x for x in subtext if unicodetoascii(to_search) in " ".join(x.split("\n")[2:])][0]
         return x.split("\n")[1].split(" --> ")
     except :
         return ["-1", "-1"]
         
 def search_words(sentence, subtext):
+    re.sub("[\(\[].*?[\)\]]", "", sentence)
     sentence = unicodetoascii(sentence)
     init_timestamp, end_timestamp = "-1", "-1"
     word_count = 7
@@ -80,6 +83,8 @@ def transcripttimestamp(transpath, subpath, newpath):
             #init_timestamp, end_timestamp = "-1", "-1"
 
             for sent in transtext:
+                if(":" not in sent):
+                    continue
                 speaker = sent.split(":")[0]
                 sent = sent.split(":")[1].lstrip().rstrip()
                 if(len(sent.split(" ")) <= 4):
@@ -114,8 +119,8 @@ def transcripttimestamp(transpath, subpath, newpath):
     return output
 
 if __name__ == '__main__':
-    transpath = "./data/transcripts/S08E01.txt"                                                                                                                
-    subpath = "./data/subtitles/s08e01.srt"                                                                                                                    
+    transpath = "./data/transcripts/FS02E02.txt"                                                                                                                
+    subpath = "./data/subtitles/FS02E02.srt"                                                                                                                    
     newpath = "./new.txt"  
     os.system("rm -rf {}".format(newpath))                                                                                                                              
     transcripttimestamp(transpath, subpath, newpath)
