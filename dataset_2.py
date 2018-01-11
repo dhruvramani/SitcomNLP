@@ -46,6 +46,7 @@ def get_timestamp(subtext, to_search):
         return ["-1", "-1"]
         
 def search_words(sentence, subtext):
+    re.sub("[\(\[].*?[\)\]]", "", sentence)
     sentence = unicodetoascii(sentence)
     init_timestamp, end_timestamp = "-1", "-1"
     word_count = 7
