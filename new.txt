@@ -1,505 +1,3091 @@
-Sheldon | Excuse me. | 00:00:41,927 | 00:00:44,095
+Monica |  | 00:00:05,872 | 00:00:08,773
 
-Sheldon | Is it at all possible that you're knitting a pair of pants? | 00:00:46,916 | 00:00:51,135
+Carol |  | 00:00:28,194 | 00:00:31,459
 
-Sheldon | Oh, well, no, you're understandably terrified. But, you know, allow me to explain. 45 days ago, um, I embarked on a railroad journey of healing because my university was making me do string theory, and my favorite comic book store burned down, and when my roommate got engaged, my girlfriend wanted to move in with me, which was no doubt a ploy just to see my-- well, excuse my language, but my bathing suit parts. | 00:00:52,771 | 00:01:17,245
+Carol | You know, it's... | 00:00:32,599 | 00:00:34,157
 
-Sheldon | Uh, sir, may I use your phone? | 00:01:20,916 | 00:01:22,884
+Carol | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
 
-Sheldon | Yeah, well, I understand that I'm half naked, but there is a reasonable explanation. While I slept in my sleeper car, all my possessions were stolen. Now, typically, I wear pajamas, but I recently adopted a hobo lifestyle and pajamas are the sleep-pants of the Man. | 00:01:22,886 | 00:01:43,271
+Carol | I gotta get one too. | 00:00:41,508 | 00:00:43,169
 
-Sheldon | I'll have you know, Mahatma Gandhi wore no pants and a nation rallied behind him! My good man... Now, before you walk away... I know that I may appear deranged, but I am, in fact, a world-renowned physicist. Ask me the difference between a boson and a fermion. Go ahead, ask! | 00:01:45,190 | 00:02:02,507
+Carol | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
 
-Sheldon | Bosons have integer spin, fermions have half-integer spin! My legs are getting cold! Why won't anybody help me? | 00:02:05,127 | 00:02:13,484
+Carol | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
 
-Penny | Hi. Want to do yoga with me? | 00:02:44,679 | 00:02:46,212
+Carol | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
 
-Leonard | Hey, buddy. Good to hear your voice. | 00:02:58,393 | 00:03:01,344
+Carol | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
 
-Leonard | Oh, my God, are you okay? | 00:03:19,364 | 00:03:20,563
+Carol | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
 
-Leonard | He got all of his stuff stolen. | 00:03:35,129 | 00:03:36,712
+Carol | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
 
-Leonard | Sheldon, hang tight. Hey, do you want me to bring anything? | 00:03:40,084 | 00:03:42,918
+Chandler | You know, it's... | 00:00:32,599 | 00:00:34,157
 
-Sheldon | Oh, yes, please. A pair of pants. And my toothbrush. Yeah, and my mail. And a really good comeback for Chicken Legs, because “I know you are, but what am I?” was met with stony silence. | 00:03:42,920 | 00:03:55,014
+Chandler | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
 
-Leonard | Feel like driving to Arizona with me? | 00:04:00,702 | 00:04:01,905
+Chandler | I gotta get one too. | 00:00:41,508 | 00:00:43,169
 
-Leonard | All right, fine. | 00:04:10,781 | 00:04:12,498
+Chandler | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
 
-Leonard | Hey, can you think of a reason I shouldn't invite Amy to come with me? | 00:04:13,467 | 00:04:16,248
+Chandler | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
 
-Leonard |  | 00:04:17,005 | 00:04:19,705
+Chandler | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
 
-Raj | Got a hot girlfriend now. I want the haters to know. | 00:04:29,350 | 00:04:32,601
+Chandler | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
 
-Howard | What are you talking about? No one's paying attention to you. | 00:04:32,603 | 00:04:35,638
+Chandler | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
 
-Raj | I thought Stuart was looking after her. | 00:04:45,566 | 00:04:47,149
+Chandler | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
 
-Howard | He was, but now that her cast is off, he moved out. And honestly, I'm kind of glad. It was getting a little weird. | 00:04:47,151 | 00:04:53,656
+Chandler | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
 
-Howard | No, not like us. Creepy chummy, like you and your dog. | 00:05:00,331 | 00:05:05,468
+Chandler | Carol? | 00:01:16,342 | 00:01:17,138
 
-Raj | She feeds him out of her own mouth? | 00:05:05,470 | 00:05:09,055
+Chandler | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
 
-Howard | I mean, he calls her Debbie, she calls him Stewie and they're all giggly around each other. And believe me, when food goes in that mouth, it does not come out. | 00:05:10,090 | 00:05:19,932
+Chandler | Sure. | 00:01:26,286 | 00:01:27,218
 
-Raj | So are you worried because he's replacing you as a son or are you worried because he's becoming her lover? | 00:05:19,934 | 00:05:27,406
+Chandler | Does it hurt? | 00:01:29,756 | 00:01:31,155
 
-Howard | First of all, no one can replace me as a son. I'm her little matzo ball. And secondly, my mother is well past having any kind of sex life. | 00:05:27,408 | 00:05:37,783
+Chandler | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
 
-Sheldon | Excuse me, Officer Hernandez? Any leads on the person who stole my belongings? | 00:05:47,711 | 00:05:53,349
+Chandler | Chandler? | 00:01:35,361 | 00:01:36,385
 
-Sheldon | Well, perhaps I can help. Sherlock Holmes always says when you eliminate the impossible, whatever remains, however improbable, must be the truth. Now, have-have you tried doing that? | 00:05:54,385 | 00:06:07,446
+Chandler | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
 
-Sheldon | Well, maybe you should. Th-Th-There's lots of books called “Sherlock Holmes” and there's no books called “Officer Hernandez.” | 00:06:09,317 | 00:06:18,407
+Chandler | As much as he needs. | 00:01:42,001 | 00:01:43,400
 
-Leonard | Thanks again for coming. Six hours was gonna be a long drive by myself. | 00:06:24,698 | 00:06:29,218
+Chandler | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
 
-Bernadette | This job is a lot like being a waitress, except instead of pushing the fish tacos 'cause they're about to go bad, you're just pushing our antidepressants before the FDA finds out they may cause rectal bleeding. | 00:07:07,457 | 00:07:16,932
+Chandler | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
 
-Penny | Oh, I really appreciate this. I just hope I'm not in over my head. | 00:07:32,950 | 00:07:35,985
+Chandler | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
 
-Penny | I wish I felt more confident. | 00:07:37,905 | 00:07:39,538
+Chandler | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
 
-Penny | Oh, thank you, but maybe I should cancel. | 00:07:42,326 | 00:07:44,693
+Chandler | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
 
-Penny | about pharmaceuticals. | 00:07:46,547 | 00:07:48,447
+Chandler | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
 
-Bernadette | Oh, I understand. You want to do something you're already good at. I know. Why don't I get you a job at the Sitting Around All Day Wearing Yoga Pants Factory? | 00:07:48,449 | 00:07:57,640
+Chandler | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
 
-Howard |  You just started seeing naked women again, and I don't want you to be confused about where the boobs should be. | 00:08:05,932 | 00:08:13,856
+Chandler | And hello to the rest. | 00:03:26,206 | 00:03:28,401
 
-Stuart | Oh, hey, guys. What are you doing here? | 00:08:15,025 | 00:08:18,027
+Chandler | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
 
-Stuart | Oh, yeah, I was going to, and then Debbie and I got to talking over dinner the other night. I didn't have anyplace to go, she likes having me around, so we both said, “Why leave?” at the same time. (laughs) It was precious. | 00:08:21,949 | 00:08:36,178
+Chandler | Will it be a problem? | 00:03:35,748 | 00:03:36,942
 
-Stuart |  | 00:08:50,561 | 00:08:52,311
+Chandler | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
 
-Stuart | They're probably on her head. | 00:08:54,030 | 00:08:55,564
+Chandler | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
 
-Howard | Or in her neck. Listen. | 00:08:56,900 | 00:08:58,734
+Chandler | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
 
-Howard | You staying here seems like something she would've talked to me about. | 00:08:59,986 | 00:09:04,907
+Chandler | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
 
-Sheldon | Any word on my stolen items? | 00:09:29,165 | 00:09:31,033
+Chandler | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
 
-Sheldon | You know, Sherlock Holmes liked to use cocaine to sharpen his focus. | 00:09:34,004 | 00:09:37,906
+Chandler | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
 
-Sheldon | But I'm sure those Cool Ranch Doritos are doing the trick. | 00:09:40,877 | 00:09:44,380
+Chandler | Bijan for men? | 00:04:23,129 | 00:04:24,357
 
-Amy | What do you mean, why did I come? | 00:09:56,426 | 00:09:58,093
+Chandler | Bijan for men? | 00:04:25,832 | 00:04:27,060
 
-Sheldon |  I feel uncomfortable saying it out loud in front of these police officers. | 00:10:06,686 | 00:10:11,890
+Chandler | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
 
-Leonard | So, Sheldon, tell us about your trip. Where'd you go? | 00:10:34,261 | 00:10:38,014
+Chandler | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
 
-Sheldon | Oh, I have no idea. I never left the train station. | 00:10:46,825 | 00:10:49,909
+Chandler | Hombre? | 00:04:48,921 | 00:04:50,286
 
-Leonard | across the entire country and never left a train station? | 00:10:51,412 | 00:10:55,665
+Chandler | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
 
-Sheldon | Why would I? That's where all the cool trains are. | 00:10:55,667 | 00:10:58,868
+Chandler | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
 
-Sheldon | Or had a single piece of fruit. | 00:11:02,707 | 00:11:05,425
+Chandler | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
 
-Penny | Uh, well, as a waitress, sales was a big part of my job. I mean, believe me, I convinced a lot of very large customers, who should not be eating cheesecake, to have more cheesecake. I mean, one of those chubsters even had an insulin pump! Uh-huh! | 00:11:36,825 | 00:11:52,088
+Chandler | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
 
-Penny | I have an insulin pump. | 00:11:53,173 | 00:11:56,209
+Chandler | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
 
-Raj | That is weird. I thought he was, like, 45. | 00:12:08,106 | 00:12:12,575
+Chandler | "Your territory"? | 00:05:22,221 | 00:05:24,246
 
-Howard |  | 00:04:17,005 | 00:04:19,705
+Chandler | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
 
-Howard | Thanks for the lift. What's wrong with your car? I'm having my windows untinted. Why? Got a hot girlfriend now. I want the haters to know. What are you talking about? No one's paying attention to you. Wow. How's that Hater-Ade taste, bro? | 00:04:20,874 | 00:04:39,558
+Chandler | Yeah, all right. | 00:05:29,228 | 00:05:31,355
 
-Howard | Hey, this isn't the way to work. I just want to pop in and make sure Ma's okay. I thought Stuart was looking after her. He was, but now that her cast is off, he moved out. And honestly, I'm kind of glad. It was getting a little weird. How so? I don't know, they're... chummy. Like us? No, not like us. Creepy chummy, like you and your dog. She feeds him out of her own mouth? | 00:04:40,811 | 00:05:09,055
+Chandler | You were saying? | 00:05:38,137 | 00:05:39,195
 
-Howard | I mean, he calls her Debbie, she calls him Stewie and they're all giggly around each other. And believe me, when food goes in that mouth, it does not come out. So are you worried because he's replacing you as a son or are you worried because he's becoming her lover? First of all, no one can replace me as a son. I'm her little matzo ball. And secondly, my mother is well past having any kind of sex life. Okay, okay. | 00:05:10,090 | 00:05:39,585
+Chandler | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
 
-Howard | Although many older women lead vibrant, active... I said well past it! | 00:05:40,620 | 00:05:45,124
+Chandler | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
 
-Howard | Excuse me, Officer Hernandez? Any leads on the person who stole my belongings? Not yet. Well, perhaps I can help. Sherlock Holmes always says when you eliminate the impossible, whatever remains, however improbable, must be the truth. Now, have-have you tried doing that? Nope. Well, maybe you should. Th-Th-There's lots of books called “Sherlock Holmes” and there's no books called “Officer Hernandez.” | 00:05:47,711 | 00:06:18,407
+Chandler | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
 
-Howard | Thanks again for coming. Six hours was gonna be a long drive by myself. My pleasure. And I'm not angry at all that my boyfriend was in trouble and called you instead of me. I love that! | 00:06:24,698 | 00:06:36,559
+Chandler | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
 
-Howard | Yeah, time's gonna fly by. | 00:06:38,311 | 00:06:42,731
+Chandler | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
 
-Howard | I haven't been on a job interview in years. I'm really nervous. Don't be. You are built for pharmaceutical sales. You're cute, you're flirty and... Started that like there were gonna be three things. | 00:06:43,900 | 00:06:56,579
+Chandler | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
 
-Howard | I don't have any experience in sales. Unless you count the bikini car wash I did in high school. But you already made me take that off my résumé. | 00:06:57,697 | 00:07:05,704
+Chandler | For fur. | 00:06:11,070 | 00:06:12,833
 
-Howard | This job is a lot like being a waitress, except instead of pushing the fish tacos 'cause they're about to go bad, you're just pushing our antidepressants before the FDA finds out they may cause rectal bleeding. | 00:07:07,457 | 00:07:16,932
+Chandler | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
 
-Howard | They do? Maybe. | 00:07:19,219 | 00:07:22,638
+Chandler | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
 
-Howard | But like our lawyers say, the world is full of things that can cause a rectum to bleed. | 00:07:23,807 | 00:07:28,644
+Chandler | So then we bought some... | 00:06:23,116 | 00:06:25,243
 
-Howard | Anyway, I talked you up to Dan. He's the guy who'll be interviewing you. Oh, I really appreciate this. I just hope I'm not in over my head. You'll be fine. Just be yourself. I wish I felt more confident. Penny, I wouldn't have put you up for this job if I didn't think you could handle it. Oh, thank you, but maybe I should cancel. It's too late to cancel. You're going. But I don't know anything about pharmaceuticals. Oh, I understand. You want to do something you're already good at. I know. Why don't I get you a job at the Sitting Around All Day Wearing Yoga Pants Factory? They're comfortable. | 00:07:30,146 | 00:08:03,812
+Chandler | Boobs. | 00:06:26,686 | 00:06:27,778
 
-Howard | Ma, I hope you're decent. Raj is here! You just started seeing naked women again, and I don't want you to be confused about where the boobs should be. | 00:08:05,932 | 00:08:13,856
+Chandler | You bought boobs? | 00:06:33,693 | 00:06:34,591
 
-Howard | Oh, hey, guys. What are you doing here? Uh... w-what are you doing here? I thought you moved out. Oh, yeah, I was going to, and then Debbie and I got to talking over dinner the other night. I didn't have anyplace to go, she likes having me around, so we both said, “Why leave?” at the same time. (laughs) It was precious. | 00:08:15,025 | 00:08:36,178
+Chandler | Bras! | 00:06:37,864 | 00:06:39,388
 
-Howard | It's not that precious. I'd like to back you up, but it sounds like it was pretty precious. | 00:08:37,264 | 00:08:43,102
+Chandler | We bought bras! | 00:06:40,266 | 00:06:41,358
 
-Howard | MRS. WOLOWITZ: Stewie, I can't find my glasses! Be right there, Deb Deb! | 00:08:47,390 | 00:08:52,311
+Chandler | We bought bras. | 00:06:42,368 | 00:06:44,529
 
-Howard | They're probably on her head. | 00:08:54,030 | 00:08:55,564
+Chandler | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
 
-Howard | Or in her neck. Listen. | 00:08:56,900 | 00:08:58,734
+Chandler | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
 
-Howard | You staying here seems like something she would've talked to me about. Well, maybe if you called your mother more often, you'd know. | 00:08:59,986 | 00:09:07,576
+Chandler | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
 
-Howard | It wouldn't kill you to pick up the phone. | 00:09:11,131 | 00:09:13,716
+Chandler | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
 
-Howard | Any word on my stolen items? We're doing everything we can. | 00:09:29,165 | 00:09:33,168
+Chandler | You bet. | 00:07:10,930 | 00:07:12,363
 
-Howard | You know, Sherlock Holmes liked to use cocaine to sharpen his focus. | 00:09:34,004 | 00:09:37,906
+Chandler | Maybe some other time. | 00:07:14,167 | 00:07:15,395
 
-Howard | But I'm sure those Cool Ranch Doritos are doing the trick. | 00:09:40,877 | 00:09:44,380
+Chandler | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
 
-Howard | Sheldon. (gasps) Leonard! Oh, I'm so happy to see you. Are you okay? Oh, I'm fine. Why did you come? | 00:09:45,815 | 00:09:54,957
+Chandler | Bijan for men! | 00:07:32,318 | 00:07:33,910
 
-Howard | What do you mean, why did I come? You're my boyfriend. I haven't seen you in over a month. I just drove six hours to help you out. Don't you have anything to say besides, “Why did you come?” | 00:09:56,426 | 00:10:05,684
+Chandler | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
 
-Howard | I do, but... I feel uncomfortable saying it out loud in front of these police officers. | 00:10:06,686 | 00:10:11,890
+Chandler | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
 
-Howard | Fine. Whisper it. | 00:10:13,393 | 00:10:15,611
+Chandler | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
 
-Howard | Shotgun. | 00:10:20,316 | 00:10:21,533
+Chandler | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
 
-Howard | So, Sheldon, tell us about your trip. Where'd you go? Where didn't I go? I went to New York, Chicago, Atlanta, Denver, Seattle. How were they? Oh, I have no idea. I never left the train station. | 00:10:34,261 | 00:10:49,909
+Chandler | That's clever. | 00:08:08,621 | 00:08:10,145
 
-Howard | Hang on. You traveled across the entire country and never left a train station? Why would I? That's where all the cool trains are. I'm sorry, so you never went outside? Or had a single piece of fruit. | 00:10:51,412 | 00:11:05,425
+Chandler | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
 
-Howard | So... why do you think you'd make a good pharmaceutical sales rep? Well, I'm a people person. Mm-hmm. People like me. Some of my favorite people are people. | 00:11:08,846 | 00:11:19,689
+Chandler | Hi, Jew! | 00:08:15,895 | 00:08:17,328
 
-Howard | I feel like I'm saying “people” a lot. People, people, people, PE... Okay, I'm done. You sure? People. Yes. Good! So, how do you feel your previous job experience has prepared you for a career like this? Uh, well, as a waitress, sales was a big part of my job. I mean, believe me, I convinced a lot of very large customers, who should not be eating cheesecake, to have more cheesecake. I mean, one of those chubsters even had an insulin pump! Uh-huh! | 00:11:20,691 | 00:11:52,088
+Chandler | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
 
-Howard | I have an insulin pump. | 00:11:53,173 | 00:11:56,209
+Chandler | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
 
-Howard | People. (quiet laugh) | 00:11:58,395 | 00:12:00,596
+Chandler | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
 
-Howard | It's weird, right? A grown man in his 30s living with my mother. That is weird. I thought he was, like, 45. Come on, you don't think it's a little odd? | 00:12:03,183 | 00:12:14,610
+Chandler | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
 
-Raj | You know what? and she's in a bad marriage. I give you my blessing. | 00:12:26,257 | 00:12:31,377
+Chandler | Ben, dinner! | 00:08:54,734 | 00:08:56,702
 
-Howard | This is stupid. I'm just gonna call my mother and be honest with her. | 00:12:31,379 | 00:12:36,966
+Chandler | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
 
-Raj | This is the part where you talk. | 00:12:56,286 | 00:12:59,372
+Chandler | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
 
-Dan |  | 00:04:10,781 | 00:04:12,498
+Chandler | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
 
-Dan | Hey, can you think of a reason I shouldn't invite Amy to come with me? Nope. Come on, you didn't even try. | 00:04:13,467 | 00:04:19,705
+Chandler | What is the big deal? | 00:09:22,828 | 00:09:24,819
 
-Dan | Thanks for the lift. What's wrong with your car? I'm having my windows untinted. Why? Got a hot girlfriend now. I want the haters to know. What are you talking about? No one's paying attention to you. Wow. How's that Hater-Ade taste, bro? | 00:04:20,874 | 00:04:39,558
+Chandler | What did you just do? | 00:09:26,966 | 00:09:28,797
 
-Dan | Hey, this isn't the way to work. I just want to pop in and make sure Ma's okay. I thought Stuart was looking after her. He was, but now that her cast is off, he moved out. And honestly, I'm kind of glad. It was getting a little weird. How so? I don't know, they're... chummy. Like us? No, not like us. Creepy chummy, like you and your dog. She feeds him out of her own mouth? | 00:04:40,811 | 00:05:09,055
+Chandler | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
 
-Dan | I mean, he calls her Debbie, she calls him Stewie and they're all giggly around each other. And believe me, when food goes in that mouth, it does not come out. So are you worried because he's replacing you as a son or are you worried because he's becoming her lover? First of all, no one can replace me as a son. I'm her little matzo ball. And secondly, my mother is well past having any kind of sex life. Okay, okay. | 00:05:10,090 | 00:05:39,585
+Chandler | You won't even taste it? | 00:09:35,908 | 00:09:37,500
 
-Dan | Although many older women lead vibrant, active... I said well past it! | 00:05:40,620 | 00:05:45,124
+Chandler | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
 
-Dan | Excuse me, Officer Hernandez? Any leads on the person who stole my belongings? Not yet. Well, perhaps I can help. Sherlock Holmes always says when you eliminate the impossible, whatever remains, however improbable, must be the truth. Now, have-have you tried doing that? Nope. Well, maybe you should. Th-Th-There's lots of books called “Sherlock Holmes” and there's no books called “Officer Hernandez.” | 00:05:47,711 | 00:06:18,407
+Chandler | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
 
-Dan | Thanks again for coming. Six hours was gonna be a long drive by myself. My pleasure. And I'm not angry at all that my boyfriend was in trouble and called you instead of me. I love that! | 00:06:24,698 | 00:06:36,559
+Chandler | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
 
-Dan | Yeah, time's gonna fly by. | 00:06:38,311 | 00:06:42,731
+Chandler | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
 
-Dan | I haven't been on a job interview in years. I'm really nervous. Don't be. You are built for pharmaceutical sales. You're cute, you're flirty and... Started that like there were gonna be three things. | 00:06:43,900 | 00:06:56,579
+Chandler | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
 
-Dan | I don't have any experience in sales. Unless you count the bikini car wash I did in high school. But you already made me take that off my résumé. | 00:06:57,697 | 00:07:05,704
+Chandler | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
 
-Dan | This job is a lot like being a waitress, except instead of pushing the fish tacos 'cause they're about to go bad, you're just pushing our antidepressants before the FDA finds out they may cause rectal bleeding. | 00:07:07,457 | 00:07:16,932
+Chandler | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
 
-Dan | They do? Maybe. | 00:07:19,219 | 00:07:22,638
+Chandler | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
 
-Dan | But like our lawyers say, the world is full of things that can cause a rectum to bleed. | 00:07:23,807 | 00:07:28,644
+Chandler | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
 
-Dan | Anyway, I talked you up to Dan. He's the guy who'll be interviewing you. Oh, I really appreciate this. I just hope I'm not in over my head. You'll be fine. Just be yourself. I wish I felt more confident. Penny, I wouldn't have put you up for this job if I didn't think you could handle it. Oh, thank you, but maybe I should cancel. It's too late to cancel. You're going. But I don't know anything about pharmaceuticals. Oh, I understand. You want to do something you're already good at. I know. Why don't I get you a job at the Sitting Around All Day Wearing Yoga Pants Factory? They're comfortable. | 00:07:30,146 | 00:08:03,812
+Joey |  | 00:21:47,472 | 00:21:48,734
 
-Dan | Ma, I hope you're decent. Raj is here! You just started seeing naked women again, and I don't want you to be confused about where the boobs should be. | 00:08:05,932 | 00:08:13,856
+Ross |  | 00:03:31,177 | 00:03:34,806
 
-Dan | Oh, hey, guys. What are you doing here? Uh... w-what are you doing here? I thought you moved out. Oh, yeah, I was going to, and then Debbie and I got to talking over dinner the other night. I didn't have anyplace to go, she likes having me around, so we both said, “Why leave?” at the same time. (laughs) It was precious. | 00:08:15,025 | 00:08:36,178
+Joey |  | 00:00:57,223 | 00:01:00,192
 
-Dan | It's not that precious. I'd like to back you up, but it sounds like it was pretty precious. | 00:08:37,264 | 00:08:43,102
+Carol | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
 
-Dan | MRS. WOLOWITZ: Stewie, I can't find my glasses! Be right there, Deb Deb! | 00:08:47,390 | 00:08:52,311
+Carol | As much as he needs. | 00:01:42,001 | 00:01:43,400
 
-Dan | They're probably on her head. | 00:08:54,030 | 00:08:55,564
+Rachel |  | 00:02:42,395 | 00:02:45,193
 
-Dan | Or in her neck. Listen. | 00:08:56,900 | 00:08:58,734
+Julie |  | 00:16:49,608 | 00:16:52,441
 
-Dan | You staying here seems like something she would've talked to me about. Well, maybe if you called your mother more often, you'd know. | 00:08:59,986 | 00:09:07,576
+Rachel |  | 00:02:54,107 | 00:02:56,007
 
-Dan | It wouldn't kill you to pick up the phone. | 00:09:11,131 | 00:09:13,716
+Rachel | What a bitch! | 00:02:57,777 | 00:02:59,540
 
-Dan | Any word on my stolen items? We're doing everything we can. | 00:09:29,165 | 00:09:33,168
+Chandler |  | 00:13:27,339 | 00:13:28,328
 
-Dan | You know, Sherlock Holmes liked to use cocaine to sharpen his focus. | 00:09:34,004 | 00:09:37,906
+Phoebe | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
 
-Dan | But I'm sure those Cool Ranch Doritos are doing the trick. | 00:09:40,877 | 00:09:44,380
+Phoebe | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
 
-Dan | Sheldon. (gasps) Leonard! Oh, I'm so happy to see you. Are you okay? Oh, I'm fine. Why did you come? | 00:09:45,815 | 00:09:54,957
+Ross |  | 00:13:31,343 | 00:13:34,176
 
-Dan | What do you mean, why did I come? You're my boyfriend. I haven't seen you in over a month. I just drove six hours to help you out. Don't you have anything to say besides, “Why did you come?” | 00:09:56,426 | 00:10:05,684
+Ross | It's a big deal to me. I really appreciate this. | 00:04:02,242 | 00:04:06,545
 
-Dan | I do, but... I feel uncomfortable saying it out loud in front of these police officers. | 00:10:06,686 | 00:10:11,890
+Annabelle |  Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
 
-Dan | Fine. Whisper it. | 00:10:13,393 | 00:10:15,611
+Joey |  | 00:04:55,128 | 00:04:57,426
 
-Dan | Shotgun. | 00:10:20,316 | 00:10:21,533
+Annabelle | I guess he doesn't know. | 00:04:57,664 | 00:04:59,325
 
-Dan | So, Sheldon, tell us about your trip. Where'd you go? Where didn't I go? I went to New York, Chicago, Atlanta, Denver, Seattle. How were they? Oh, I have no idea. I never left the train station. | 00:10:34,261 | 00:10:49,909
+Joey |  ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
 
-Dan | Hang on. You traveled across the entire country and never left a train station? Why would I? That's where all the cool trains are. I'm sorry, so you never went outside? Or had a single piece of fruit. | 00:10:51,412 | 00:11:05,425
+Joey | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
 
-Dan | So... why do you think you'd make a good pharmaceutical sales rep? Well, I'm a people person. Mm-hmm. People like me. Some of my favorite people are people. | 00:11:08,846 | 00:11:19,689
+Hombre Man |  | 00:05:43,242 | 00:05:47,178
 
-Dan | I feel like I'm saying “people” a lot. People, people, people, PE... Okay, I'm done. You sure? People. Yes. Good! So, how do you feel your previous job experience has prepared you for a career like this? Uh, well, as a waitress, sales was a big part of my job. I mean, believe me, I convinced a lot of very large customers, who should not be eating cheesecake, to have more cheesecake. I mean, one of those chubsters even had an insulin pump! Uh-huh! | 00:11:20,691 | 00:11:52,088
+Monica | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
 
-Dan | I have an insulin pump. | 00:11:53,173 | 00:11:56,209
+Phoebe | I went shopping with Monica and I had a salad. | 00:05:57,690 | 00:06:00,625
 
-Dan | People. (quiet laugh) | 00:11:58,395 | 00:12:00,596
+Rachel | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
 
-Dan | It's weird, right? A grown man in his 30s living with my mother. That is weird. I thought he was, like, 45. Come on, you don't think it's a little odd? I don't know! I mean, she's lonely. He needs a place to stay. I doubt there's any funny business going on. And even if there was, who cares? They're both adults. “Who cares”?! You wouldn't care if I slept with your mom? You know what? You're my best friend, and she's in a bad marriage. I give you my blessing. This is stupid. I'm just gonna call my mother and be honest with her. 'Cause that's what little matzo balls do. | 00:12:03,183 | 00:12:39,769
+Rachel | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
 
-Dan | (line ringing) STUART: This is Debbie! MRS. WOLOWITZ: And this is Stuart! BOTH: Just kidding! STUART: Leave a message! (beeps) | 00:12:41,889 | 00:12:55,118
+Phoebe |  | 00:00:05,872 | 00:00:08,773
 
-Dan | (whispers): This is the part where you talk. All right, let's say a physician was prescribing one of our competitor's drugs. How would you convince them to switch to ours? | 00:12:56,286 | 00:13:08,297
+Phoebe | ...in 20 minutes, but I couldn't resist! | 00:00:09,009 | 00:00:11,705
 
-Penny | Okay, thanks. | 00:13:28,153 | 00:13:30,353
+Phoebe | Look at these. Hey, Ben. | 00:00:15,582 | 00:00:18,883
 
-Penny | Um, I'm sor... Listen, could you do me a favor and not tell Bernadette how badly I blew this interview? She'll get upset. And honestly I'm a... a little terrified of her. | 00:13:31,739 | 00:13:42,615
+Phoebe | "Just do it"! | 00:00:19,119 | 00:00:20,746
 
-Dan | Wait, wait. | 00:13:42,617 | 00:13:46,085
+Phoebe | Oh, my God! Was that too much pressure for him? | 00:00:22,956 | 00:00:26,415
 
-Dan |  | 00:13:47,705 | 00:13:51,207
+Phoebe | - Is he hungry already? - I guess so. | 00:00:28,194 | 00:00:31,459
 
-Dan | E-Everyone thinks she's so nice with that squeaky little voice. | 00:13:53,127 | 00:13:58,014
+Phoebe | You know, it's... | 00:00:32,599 | 00:00:34,157
 
-Sheldon | At the hot dog stand | 00:14:30,080 | 00:14:32,381
+Phoebe | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
 
-Amy | Have you not noticed that quietly stewing for the past two hours? | 00:14:54,322 | 00:14:59,692
+Phoebe | I gotta get one too. | 00:00:41,508 | 00:00:43,169
 
-Sheldon | I just thought you were bad at the game. | 00:15:00,527 | 00:15:02,995
+Phoebe | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
 
-Sheldon | Well, I was thinking put your head out the window like a dog, but that'll work. | 00:15:29,023 | 00:15:32,191
+Phoebe | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
 
-Sheldon | Please? This'll be quick. | 00:15:33,310 | 00:15:35,111
+Phoebe | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
 
-Sheldon | Leonard? As soon as we get home, I want to have coitus with Amy. | 00:15:39,950 | 00:15:45,404
+Phoebe | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
 
-Sheldon | Okay, she can't hear. | 00:15:52,663 | 00:15:54,380
+Phoebe | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
 
-Sheldon | The reason I called you is because I didn't want Amy to know I couldn't make it on my own. | 00:15:57,334 | 00:16:04,390
+Phoebe | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
 
-Sheldon | no big deal to you. You idolize me, and nothing could ever knock me off that pedestal you put me on. | 00:16:06,427 | 00:16:13,599
+Phoebe | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
 
-Leonard |  You-you are a god to me. | 00:16:13,601 | 00:16:17,570
+Phoebe | Carol? | 00:01:16,342 | 00:01:17,138
 
-Sheldon |  I failed. And I didn't want you to think less of me. | 00:16:24,244 | 00:16:31,918
+Phoebe | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
 
-Amy | You were worried about that? | 00:16:32,753 | 00:16:34,921
+Phoebe | Sure. | 00:01:26,286 | 00:01:27,218
 
-Sheldon | Can I have one more moment with Leonard? | 00:16:50,304 | 00:16:53,806
+Phoebe | Does it hurt? | 00:01:29,756 | 00:01:31,155
 
-Sheldon | Amy just hurt my feelings. I want to break up with her. | 00:17:03,066 | 00:17:06,535
+Phoebe | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
 
-Howard | Now, I never thought kind of excited to see Sheldon. | 00:17:09,289 | 00:17:15,244
+Phoebe | Chandler? | 00:01:35,361 | 00:01:36,385
 
-Bernadette |  kind of excited to see Sheldon. I never thought I'd say this, but Penny got a job today. | 00:17:09,289 | 00:17:18,497
+Phoebe | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
 
-Bernadette | Well, the only reason she got it is 'cause the guy who interviewed her loves me. | 00:17:20,785 | 00:17:25,221
+Phoebe | As much as he needs. | 00:01:42,001 | 00:01:43,400
 
-Howard |  He's just gonna live there rent-free? How is that gonna motivate him to get off his butt and get a job? I mean, do you even have a plan? | 00:17:42,774 | 00:17:52,031
+Phoebe | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
 
-Stuart | You know what? and she's in a bad marriage. I give you my blessing. This is stupid. I'm just gonna call my mother and be honest with her. 'Cause that's what little matzo balls do. | 00:12:26,257 | 00:12:39,769
+Phoebe | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
 
-Stuart | (line ringing) STUART: This is Debbie! MRS. WOLOWITZ: And this is Stuart! BOTH: Just kidding! STUART: Leave a message! (beeps) | 00:12:41,889 | 00:12:55,118
+Phoebe | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
 
-Stuart | (whispers): This is the part where you talk. All right, let's say a physician was prescribing one of our competitor's drugs. How would you convince them to switch to ours? | 00:12:56,286 | 00:13:08,297
+Phoebe | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
 
-Stuart | Um... any chance his car needs to be washed by a girl in a bikini? (quietly): No... Okay, I'm really sorry for wasting your time. Don't worry about it. Thanks for stopping by. Okay, thanks. | 00:13:12,920 | 00:13:30,353
+Phoebe | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
 
-Stuart | Um, I'm sor... Listen, could you do me a favor and not tell Bernadette how badly I blew this interview? She'll get upset. And honestly I'm a... a little terrified of her. Wait, wait. You're scared of Bernadette? Yeah, kind of. I thought it was just me! | 00:13:31,739 | 00:13:51,207
+Phoebe | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
 
-Stuart | E-Everyone thinks she's so nice with that squeaky little voice. I know, but she's kind of a bully! (stammers) She is! I-I didn't even want to meet you, but, uh, I was too scared to say no to her. Me, too! Yeah, yeah! One-one time, I had... Oh! (laughs) I had to tell her we were cutting the-the research funding for one of the drugs she was developing. What happened? I couldn't do it! She's still working on it! (laughs) (laughing) | 00:13:53,127 | 00:14:22,572
+Phoebe | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
 
-Stuart | Oh! We're not gonna tell her about this, right? Oh, my God, no! No, no... | 00:14:23,540 | 00:14:28,911
+Phoebe | And hello to the rest. | 00:03:26,206 | 00:03:28,401
 
-Stuart | At the hot dog stand in the Denver train station-- Heinz ketchup. At the hot dog stand in the Salt Lake City train station-- Heinz ketchup. At the hot dog stand in the Indianapolis train station... | 00:14:30,080 | 00:14:41,808
+Phoebe | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
 
-Stuart | I don't care. | 00:14:43,143 | 00:14:45,728
+Phoebe | Will it be a problem? | 00:03:35,748 | 00:03:36,942
 
-Stuart | Wrong! Hunt's! | 00:14:47,598 | 00:14:49,265
+Phoebe | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
 
-Stuart | Hey, Amy! What do you say? You ready to move on to the mustard round? Have you not noticed that I've been sitting back here quietly stewing for the past two hours? I just thought you were bad at the game. | 00:14:50,684 | 00:15:02,995
+Phoebe | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
 
-Stuart | I'm mad at you! | 00:15:04,248 | 00:15:05,998
+Phoebe | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
 
-Stuart | How could you just go away like that without even saying good-bye, and then call Leonard for help instead of me? | 00:15:06,867 | 00:15:12,121
+Phoebe | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
 
-Stuart | Amy? May I please have a moment of privacy to speak with my roommate? We're in a moving car! | 00:15:14,842 | 00:15:23,516
+Phoebe | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
 
-Stuart | What do you expect me to do? Stick my fingers in my ears? Well, I was thinking put your head out the window like a dog, but that'll work. | 00:15:25,552 | 00:15:32,191
+Phoebe | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
 
-Stuart | Please? This'll be quick. | 00:15:33,310 | 00:15:35,111
+Phoebe | Bijan for men? | 00:04:23,129 | 00:04:24,357
 
-Stuart | Leonard? As soon as we get home, I want to have coitus with Amy. | 00:15:39,950 | 00:15:45,404
+Phoebe | Bijan for men? | 00:04:25,832 | 00:04:27,060
 
-Stuart | Okay, she can't hear. | 00:15:52,663 | 00:15:54,380
+Phoebe | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
 
-Stuart | The reason I called you is because I didn't want Amy to know I couldn't make it on my own. What's the big deal? Oh, of course it's no big deal to you. You idolize me, and nothing could ever knock me off that pedestal you put me on. Well, yeah, it's true. You-you are a god to me. | 00:15:57,334 | 00:16:17,570
+Phoebe | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
 
-Stuart | Can I stop now? Just tell her. | 00:16:18,772 | 00:16:23,192
+Phoebe | Hombre? | 00:04:48,921 | 00:04:50,286
 
-Stuart | I called Leonard because... I failed. And I didn't want you to think less of me. | 00:16:24,244 | 00:16:31,918
+Phoebe | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
 
-Stuart | You were worried about that? | 00:16:32,753 | 00:16:34,921
+Phoebe | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
 
-Stuart | Yes. | 00:16:36,256 | 00:16:38,457
+Phoebe | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
 
-Stuart | Sheldon... it's okay with me that you're not perfect. | 00:16:40,510 | 00:16:46,382
+Phoebe | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
 
-Stuart | Can I have one more moment with Leonard? Sure. Amy just hurt my feelings. I want to break up with her. | 00:16:50,304 | 00:17:06,535
+Phoebe | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
 
-Stuart | Now, I never thought I'd say this, but I'm kind of excited to see Sheldon. I never thought I'd say this, but Penny got a job today. | 00:17:09,289 | 00:17:18,497
+Phoebe | "Your territory"? | 00:05:22,221 | 00:05:24,246
 
-Stuart | She did? Well, the only reason she got it is 'cause the guy who interviewed her loves me. (knocking) | 00:17:19,383 | 00:17:26,973
+Phoebe | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
 
-Stuart | (clears throat) | 00:17:27,924 | 00:17:30,092
+Phoebe | Yeah, all right. | 00:05:29,228 | 00:05:31,355
 
-Stuart | What do you want? I, uh, kind of got the feeling you might not be okay with me staying at your mom's. You're right, I'm not. I think it's weird. Howie? It is. He's a grown man. He's just gonna live there rent-free? How is that gonna motivate him to get off his butt and get a job? I mean, do you even have a plan? Hey, you're not my father, okay? And besides, your mother and I were talking... “Your mother and I”? You're not my father! I didn't say I was your father! Well, I didn't say I was your father! Okay, calm down. You're not his father, he's not your father! Nobody's anybody's father. I-I'm sorry you don't like my life choices, but it's my life! Well, it's my house, it's my rules! Oh-oh! Okay, Dad! If I mow the lawn, can I have my allowance? Hey, don't you take that sarcastic tone with him! I don't have to listen to you! Don't talk to her like that! That is my mother... Wife! My wife! I said my wife! You know what? This isn't getting us anywhere. When you're ready to apologize, you know where to find me. | 00:17:31,094 | 00:18:31,570
+Phoebe | You were saying? | 00:05:38,137 | 00:05:39,195
 
-Sheldon |  I wouldn't have put you up for this job if I didn't think you could handle it. Oh, thank you, but maybe I should cancel. It's too late to cancel. You're going. But I don't know anything about pharmaceuticals. Oh, I understand. You want to do something you're already good at. I know. Why don't I get you a job at the Sitting Around All Day Wearing Yoga Pants Factory? They're comfortable. | 00:07:37,905 | 00:08:03,812
+Phoebe | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
 
-Sheldon | Ma, I hope you're decent. Raj is here! You just started seeing naked women again, and I don't want you to be confused about where the boobs should be. | 00:08:05,932 | 00:08:13,856
+Phoebe | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
 
-Sheldon | Oh, hey, guys. What are you doing here? Uh... w-what are you doing here? I thought you moved out. Oh, yeah, I was going to, and then Debbie and I got to talking over dinner the other night. I didn't have anyplace to go, she likes having me around, so we both said, “Why leave?” at the same time. (laughs) It was precious. | 00:08:15,025 | 00:08:36,178
+Phoebe | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
 
-Sheldon | It's not that precious. I'd like to back you up, but it sounds like it was pretty precious. | 00:08:37,264 | 00:08:43,102
+Phoebe | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
 
-Sheldon | MRS. WOLOWITZ: Stewie, I can't find my glasses! Be right there, Deb Deb! | 00:08:47,390 | 00:08:52,311
+Phoebe | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
 
-Sheldon | They're probably on her head. | 00:08:54,030 | 00:08:55,564
+Phoebe | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
 
-Sheldon | Or in her neck. Listen. | 00:08:56,900 | 00:08:58,734
+Phoebe | For fur. | 00:06:11,070 | 00:06:12,833
 
-Sheldon | You staying here seems like something she would've talked to me about. Well, maybe if you called your mother more often, you'd know. | 00:08:59,986 | 00:09:07,576
+Phoebe | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
 
-Sheldon | It wouldn't kill you to pick up the phone. | 00:09:11,131 | 00:09:13,716
+Phoebe | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
 
-Sheldon | Any word on my stolen items? We're doing everything we can. | 00:09:29,165 | 00:09:33,168
+Phoebe | So then we bought some... | 00:06:23,116 | 00:06:25,243
 
-Sheldon | You know, Sherlock Holmes liked to use cocaine to sharpen his focus. | 00:09:34,004 | 00:09:37,906
+Phoebe | Boobs. | 00:06:26,686 | 00:06:27,778
 
-Sheldon | But I'm sure those Cool Ranch Doritos are doing the trick. | 00:09:40,877 | 00:09:44,380
+Phoebe | You bought boobs? | 00:06:33,693 | 00:06:34,591
 
-Sheldon | Sheldon. (gasps) Leonard! Oh, I'm so happy to see you. Are you okay? Oh, I'm fine. Why did you come? | 00:09:45,815 | 00:09:54,957
+Phoebe | Bras! | 00:06:37,864 | 00:06:39,388
 
-Sheldon | What do you mean, why did I come? You're my boyfriend. I haven't seen you in over a month. I just drove six hours to help you out. Don't you have anything to say besides, “Why did you come?” | 00:09:56,426 | 00:10:05,684
+Phoebe | We bought bras! | 00:06:40,266 | 00:06:41,358
 
-Sheldon | I do, but... I feel uncomfortable saying it out loud in front of these police officers. | 00:10:06,686 | 00:10:11,890
+Joey |  Hombre? | 00:05:25,625 | 00:05:28,892
 
-Sheldon | Fine. Whisper it. | 00:10:13,393 | 00:10:15,611
+Joey | Yeah, all right. | 00:05:29,228 | 00:05:31,355
 
-Sheldon | Shotgun. | 00:10:20,316 | 00:10:21,533
+Joey | You were saying? | 00:05:38,137 | 00:05:39,195
 
-Sheldon | So, Sheldon, tell us about your trip. Where'd you go? Where didn't I go? I went to New York, Chicago, Atlanta, Denver, Seattle. How were they? Oh, I have no idea. I never left the train station. | 00:10:34,261 | 00:10:49,909
+Joey | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
 
-Sheldon | Hang on. You traveled across the entire country and never left a train station? Why would I? That's where all the cool trains are. I'm sorry, so you never went outside? Or had a single piece of fruit. | 00:10:51,412 | 00:11:05,425
+Joey | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
 
-Sheldon | So... why do you think you'd make a good pharmaceutical sales rep? Well, I'm a people person. Mm-hmm. People like me. Some of my favorite people are people. | 00:11:08,846 | 00:11:19,689
+Joey | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
 
-Sheldon | I feel like I'm saying “people” a lot. People, people, people, PE... Okay, I'm done. You sure? People. Yes. Good! So, how do you feel your previous job experience has prepared you for a career like this? Uh, well, as a waitress, sales was a big part of my job. I mean, believe me, I convinced a lot of very large customers, who should not be eating cheesecake, to have more cheesecake. I mean, one of those chubsters even had an insulin pump! Uh-huh! | 00:11:20,691 | 00:11:52,088
+Joey | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
 
-Sheldon | I have an insulin pump. | 00:11:53,173 | 00:11:56,209
+Joey | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
 
-Sheldon | People. (quiet laugh) | 00:11:58,395 | 00:12:00,596
+Joey | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
 
-Sheldon | It's weird, right? A grown man in his 30s living with my mother. That is weird. I thought he was, like, 45. Come on, you don't think it's a little odd? I don't know! I mean, she's lonely. He needs a place to stay. I doubt there's any funny business going on. And even if there was, who cares? They're both adults. “Who cares”?! You wouldn't care if I slept with your mom? You know what? You're my best friend, and she's in a bad marriage. I give you my blessing. This is stupid. I'm just gonna call my mother and be honest with her. 'Cause that's what little matzo balls do. | 00:12:03,183 | 00:12:39,769
+Joey | For fur. | 00:06:11,070 | 00:06:12,833
 
-Sheldon | (line ringing) STUART: This is Debbie! MRS. WOLOWITZ: And this is Stuart! BOTH: Just kidding! STUART: Leave a message! (beeps) | 00:12:41,889 | 00:12:55,118
+Joey | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
 
-Sheldon | (whispers): This is the part where you talk. All right, let's say a physician was prescribing one of our competitor's drugs. How would you convince them to switch to ours? | 00:12:56,286 | 00:13:08,297
+Joey | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
 
-Sheldon | Um... any chance his car needs to be washed by a girl in a bikini? (quietly): No... Okay, I'm really sorry for wasting your time. Don't worry about it. Thanks for stopping by. Okay, thanks. | 00:13:12,920 | 00:13:30,353
+Joey | So then we bought some... | 00:06:23,116 | 00:06:25,243
 
-Sheldon | Um, I'm sor... Listen, could you do me a favor and not tell Bernadette how badly I blew this interview? She'll get upset. And honestly I'm a... a little terrified of her. Wait, wait. You're scared of Bernadette? Yeah, kind of. I thought it was just me! | 00:13:31,739 | 00:13:51,207
+Joey | Boobs. | 00:06:26,686 | 00:06:27,778
 
-Sheldon | E-Everyone thinks she's so nice with that squeaky little voice. I know, but she's kind of a bully! (stammers) She is! I-I didn't even want to meet you, but, uh, I was too scared to say no to her. Me, too! Yeah, yeah! One-one time, I had... Oh! (laughs) I had to tell her we were cutting the-the research funding for one of the drugs she was developing. What happened? I couldn't do it! She's still working on it! (laughs) (laughing) | 00:13:53,127 | 00:14:22,572
+Joey | You bought boobs? | 00:06:33,693 | 00:06:34,591
 
-Sheldon | Oh! We're not gonna tell her about this, right? Oh, my God, no! No, no... | 00:14:23,540 | 00:14:28,911
+Joey | Bras! | 00:06:37,864 | 00:06:39,388
 
-Sheldon | At the hot dog stand in the Denver train station-- Heinz ketchup. At the hot dog stand in the Salt Lake City train station-- Heinz ketchup. At the hot dog stand in the Indianapolis train station... | 00:14:30,080 | 00:14:41,808
+Joey | We bought bras! | 00:06:40,266 | 00:06:41,358
 
-Sheldon | I don't care. | 00:14:43,143 | 00:14:45,728
+Joey | We bought bras. | 00:06:42,368 | 00:06:44,529
 
-Sheldon | Wrong! Hunt's! | 00:14:47,598 | 00:14:49,265
+Joey | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
 
-Sheldon | Hey, Amy! What do you say? You ready to move on to the mustard round? Have you not noticed that I've been sitting back here quietly stewing for the past two hours? I just thought you were bad at the game. | 00:14:50,684 | 00:15:02,995
+Joey | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
 
-Sheldon | I'm mad at you! | 00:15:04,248 | 00:15:05,998
+Joey | I was wondering if after work we could grab a cup of coffee? | 00:06:56,182 | 00:07:00,084
 
-Sheldon | How could you just go away like that without even saying good-bye, and then call Leonard for help instead of me? | 00:15:06,867 | 00:15:12,121
+Annabelle | You bet. | 00:07:10,930 | 00:07:12,363
 
-Sheldon | Amy? May I please have a moment of privacy to speak with my roommate? We're in a moving car! | 00:15:14,842 | 00:15:23,516
+Annabelle | Maybe some other time. | 00:07:14,167 | 00:07:15,395
 
-Sheldon | What do you expect me to do? Stick my fingers in my ears? Well, I was thinking put your head out the window like a dog, but that'll work. | 00:15:25,552 | 00:15:32,191
+Joey |  | 00:03:23,369 | 00:03:25,098
 
-Sheldon | Please? This'll be quick. | 00:15:33,310 | 00:15:35,111
+Joey | And hello to the rest. | 00:03:26,206 | 00:03:28,401
 
-Sheldon | Leonard? As soon as we get home, I want to have coitus with Amy. | 00:15:39,950 | 00:15:45,404
+Joey | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
 
-Sheldon | Okay, she can't hear. | 00:15:52,663 | 00:15:54,380
+Joey | Will it be a problem? | 00:03:35,748 | 00:03:36,942
 
-Sheldon | The reason I called you is because I didn't want Amy to know I couldn't make it on my own. What's the big deal? Oh, of course it's no big deal to you. You idolize me, and nothing could ever knock me off that pedestal you put me on. Well, yeah, it's true. You-you are a god to me. | 00:15:57,334 | 00:16:17,570
+Joey | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
 
-Sheldon | Can I stop now? Just tell her. | 00:16:18,772 | 00:16:23,192
+Joey | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
 
-Sheldon | I called Leonard because... I failed. And I didn't want you to think less of me. | 00:16:24,244 | 00:16:31,918
+Joey | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
 
-Sheldon | You were worried about that? | 00:16:32,753 | 00:16:34,921
+Joey | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
 
-Sheldon | Yes. | 00:16:36,256 | 00:16:38,457
+Joey | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
 
-Sheldon | Sheldon... it's okay with me that you're not perfect. | 00:16:40,510 | 00:16:46,382
+Joey | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
 
-Sheldon | Can I have one more moment with Leonard? Sure. Amy just hurt my feelings. I want to break up with her. | 00:16:50,304 | 00:17:06,535
+Joey | Bijan for men? | 00:04:23,129 | 00:04:24,357
 
-Sheldon | Now, I never thought I'd say this, but I'm kind of excited to see Sheldon. I never thought I'd say this, but Penny got a job today. | 00:17:09,289 | 00:17:18,497
+Susan | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
 
-Sheldon | She did? Well, the only reason she got it is 'cause the guy who interviewed her loves me. (knocking) | 00:17:19,383 | 00:17:26,973
+Susan |  | 00:16:49,608 | 00:16:52,441
 
-Sheldon | (clears throat) | 00:17:27,924 | 00:17:30,092
+Rachel |  | 00:08:27,073 | 00:08:29,098
 
-Sheldon | What do you want? I, uh, kind of got the feeling you might not be okay with me staying at your mom's. You're right, I'm not. I think it's weird. Howie? It is. He's a grown man. He's just gonna live there rent-free? How is that gonna motivate him to get off his butt and get a job? I mean, do you even have a plan? Hey, you're not my father, okay? And besides, your mother and I were talking... “Your mother and I”? You're not my father! I didn't say I was your father! Well, I didn't say I was your father! Okay, calm down. You're not his father, he's not your father! Nobody's anybody's father. I-I'm sorry you don't like my life choices, but it's my life! Well, it's my house, it's my rules! Oh-oh! Okay, Dad! If I mow the lawn, can I have my allowance? Hey, don't you take that sarcastic tone with him! I don't have to listen to you! Don't talk to her like that! That is my mother... Wife! My wife! I said my wife! You know what? This isn't getting us anywhere. When you're ready to apologize, you know where to find me. Well, yeah, in my house! That's right, sucka! | 00:17:31,094 | 00:18:35,991
+[Scene |  | 00:05:57,690 | 00:06:00,625
 
-Sheldon | I wish I'd never gone on that trip. I feel no better now than when I left. | 00:18:38,995 | 00:18:44,166
+[Scene | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
 
-Amy | But you still accomplished something. | 00:18:44,168 | 00:18:45,668
+[Scene | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
 
-Leonard | Yeah. If you had told anyone that you were going away on a train by yourself across the country, do you know what they would have said? | 00:18:45,670 | 00:18:52,174
+[Scene | For fur. | 00:06:11,070 | 00:06:12,833
 
-Sheldon |  | 00:18:52,176 | 00:18:54,176
+[Scene | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
 
-Amy | But you did do it. So what if it didn't all go your way? That's what makes it an adventure. | 00:18:58,181 | 00:19:04,153
+[Scene | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
 
-Amy | See? This trip was good for you. | 00:19:24,292 | 00:19:27,543
+[Scene | So then we bought some... | 00:06:23,116 | 00:06:25,243
 
-Sheldon | Yeah, I feel renewed. I'm ready to deal with any changes that come my way. | 00:19:47,030 | 00:19:52,067
+[Scene | Boobs. | 00:06:26,686 | 00:06:27,778
 
-Sheldon | Would you like to see pictures from my trip? | 00:20:07,849 | 00:20:09,900
+[Scene | You bought boobs? | 00:06:33,693 | 00:06:34,591
 
-Penny | I thought your phone got stolen. | 00:20:09,902 | 00:20:11,434
+[Scene | Bras! | 00:06:37,864 | 00:06:39,388
 
-Sheldon | Yeah, it did, but luckily all my photos got backed up to the Cloud. | 00:20:11,436 | 00:20:15,422
+[Scene | We bought bras! | 00:06:40,266 | 00:06:41,358
 
-Leonard | And you thought they all had a silver lining. | 00:20:15,424 | 00:20:18,692
+[Scene | We bought bras. | 00:06:42,368 | 00:06:44,529
 
-Penny | I cannot believe you traveled the entire country and never left the train station. | 00:20:38,313 | 00:20:42,933
+[Scene | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
 
-Sheldon | I know. You know, I almost died in a fire in Des Moines, but I stayed put. FYI-- that's when the Imodium gave out. | 00:20:42,935 | 00:20:51,408
+[Scene | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+[Scene | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+[Scene | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+[Scene | You bet. | 00:07:10,930 | 00:07:12,363
+
+[Scene | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+[Scene | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+[Scene | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+[Scene | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+[Scene | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+[Scene | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+[Scene | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+[Scene | That's clever. | 00:08:08,621 | 00:08:10,145
+
+[Scene | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+[Scene | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+[Scene | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+[Scene | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+[Scene | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+[Scene | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+[Scene | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+[Scene | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+[Scene | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+[Scene | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+[Scene | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+[Scene | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+[Scene | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+[Scene | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+[Scene | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+[Scene | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+[Scene | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+[Scene | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+[Scene | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+[Scene | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+[Scene | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+[Scene | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+[Scene | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+[Scene | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+[Scene | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+[Scene | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+[Scene | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+[Scene | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+[Scene | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+[Scene | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+[Scene | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+[Scene | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+[Scene | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+[Scene | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+[Scene | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+[Scene | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+[Scene | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+[Scene | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+[Scene | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+[Scene | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+[Scene | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+[Scene | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+[Scene | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+[Scene | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+[Scene | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Ross |  Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Chandler | What did you just do? | 00:09:09,649 | 00:09:11,708
+
+Phoebe | I licked my arm, what? | 00:09:11,984 | 00:09:13,713
+
+Rachel | Phoebe, that is juice squeezed from a person. | 00:09:17,924 | 00:09:21,121
+
+Joey | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Chandler | What did you just do? | 00:09:09,649 | 00:09:11,708
+
+Phoebe | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Phoebe | Not even if you just | 00:09:39,011 | 00:09:41,138
+
+Ross | Not even if Carol's breast had a picture of a missing child on it. | 00:09:41,581 | 00:09:45,608
+
+Monica | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Monica | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Monica | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Monica | excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Rachel |  | 00:11:33,859 | 00:11:37,522
+
+Monica | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Monica |  | 00:03:23,369 | 00:03:25,098
+
+Monica | And hello to the rest. | 00:03:26,206 | 00:03:28,401
+
+Monica | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
+
+Monica | Will it be a problem? | 00:03:35,748 | 00:03:36,942
+
+Monica | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
+
+Monica | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Monica | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Monica | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Monica | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Monica | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Monica | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Monica | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Monica | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Monica | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Monica | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Monica | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Monica | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Monica | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Monica | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Monica | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Monica | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Monica | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Monica | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Monica | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Monica | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Monica | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Monica | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Monica | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Monica | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Monica | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Monica | For fur. | 00:06:11,070 | 00:06:12,833
+
+Monica | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Monica | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Monica | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Monica | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Monica | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Monica | Bras! | 00:06:37,864 | 00:06:39,388
+
+Monica | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Monica | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Monica | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Monica | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Monica | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Monica | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Monica | You bet. | 00:07:10,930 | 00:07:12,363
+
+Monica | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Monica | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Monica | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Monica | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Monica | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Monica | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Monica | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Monica | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Monica | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Monica | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Monica | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Monica | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Monica | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Monica | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Monica | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Monica | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Monica | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Monica | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Monica | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Monica | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Monica | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Monica | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Monica | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Monica | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Monica | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Monica | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Monica | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Monica | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Monica | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Monica | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Monica | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Monica | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Monica | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Monica | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Monica | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Monica | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Monica | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Monica | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Monica | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Monica | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Monica | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Monica | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Monica | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Monica | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Monica | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Monica | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Monica | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Monica | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Monica | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Monica | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Monica | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Monica | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Carol and Susan |  | 00:00:17,951 | 00:00:18,883
+
+Phoebe |  | 00:16:49,608 | 00:16:52,441
+
+Ross | I did not freak out. | 00:12:52,371 | 00:12:53,531
+
+Ross |  | 00:12:53,806 | 00:12:57,003
+
+Ross | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Carol | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Ross |  | 00:00:05,872 | 00:00:08,773
+
+Ross | ...in 20 minutes, but I couldn't resist! | 00:00:09,009 | 00:00:11,705
+
+Ross | Look at these. Hey, Ben. | 00:00:15,582 | 00:00:18,883
+
+Ross | "Just do it"! | 00:00:19,119 | 00:00:20,746
+
+Ross | Oh, my God! Was that too much pressure for him? | 00:00:22,956 | 00:00:26,415
+
+Ross | - Is he hungry already? - I guess so. | 00:00:28,194 | 00:00:31,459
+
+Ross | You know, it's... | 00:00:32,599 | 00:00:34,157
+
+Ross | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
+
+Ross | I gotta get one too. | 00:00:41,508 | 00:00:43,169
+
+Ross | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
+
+Ross | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
+
+Ross | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
+
+Ross | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
+
+Ross | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
+
+Ross | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
+
+Ross | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
+
+Ross | Carol? | 00:01:16,342 | 00:01:17,138
+
+Ross | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
+
+Ross | Sure. | 00:01:26,286 | 00:01:27,218
+
+Ross | Does it hurt? | 00:01:29,756 | 00:01:31,155
+
+Ross | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
+
+Ross | Chandler? | 00:01:35,361 | 00:01:36,385
+
+Ross | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
+
+Ross | As much as he needs. | 00:01:42,001 | 00:01:43,400
+
+Ross | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
+
+Ross | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
+
+Ross | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
+
+Ross | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
+
+Ross | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
+
+Ross | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
+
+Ross | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
+
+Ross | And hello to the rest. | 00:03:26,206 | 00:03:28,401
+
+Ross | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
+
+Ross | Will it be a problem? | 00:03:35,748 | 00:03:36,942
+
+Ross | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
+
+Ross | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Ross | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Ross | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Ross | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Ross | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Ross | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Ross | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Ross | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Ross | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Ross | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Ross | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Ross | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Ross | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Ross | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Ross | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Ross | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Ross | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Ross | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Ross | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Ross | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Ross | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Ross | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Ross | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Ross | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Ross | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Ross | For fur. | 00:06:11,070 | 00:06:12,833
+
+Ross | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Ross | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Ross | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Ross | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Ross | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Ross | Bras! | 00:06:37,864 | 00:06:39,388
+
+Ross | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Ross | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Ross | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Ross | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Ross | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Ross | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Ross | You bet. | 00:07:10,930 | 00:07:12,363
+
+Ross | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Ross | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Ross | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Ross | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Ross | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Ross | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Ross | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Ross | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Ross | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Ross | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Ross | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Ross | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Ross | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Ross | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Ross | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Ross | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Ross | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Ross | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Ross | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Ross | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Ross | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Ross | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Ross | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Ross | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Ross | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Ross | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Ross | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Ross | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Ross | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Ross | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Ross | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Ross | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Ross | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Ross | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Ross | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Ross | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Ross | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Ross | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Ross | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Ross | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Ross | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Ross | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Ross | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Ross | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Ross | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Ross | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Ross | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Ross | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Ross | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Ross | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Ross | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Ross | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Ross | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Ross | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Ross | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Ross | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Ross | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Ross | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Ross | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Ross | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Ross | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Phoebe |  It's natural. It doesn't taste bad. | 00:13:27,339 | 00:13:31,039
+
+Ross |  | 00:00:05,872 | 00:00:08,773
+
+Ross | ...in 20 minutes, but I couldn't resist! | 00:00:09,009 | 00:00:11,705
+
+Ross | Look at these. Hey, Ben. | 00:00:15,582 | 00:00:18,883
+
+Ross | "Just do it"! | 00:00:19,119 | 00:00:20,746
+
+Ross | Oh, my God! Was that too much pressure for him? | 00:00:22,956 | 00:00:26,415
+
+Ross | - Is he hungry already? - I guess so. | 00:00:28,194 | 00:00:31,459
+
+Ross | You know, it's... | 00:00:32,599 | 00:00:34,157
+
+Ross | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
+
+Ross | I gotta get one too. | 00:00:41,508 | 00:00:43,169
+
+Ross | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
+
+Ross | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
+
+Ross | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
+
+Ross | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
+
+Ross | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
+
+Ross | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
+
+Ross | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
+
+Ross | Carol? | 00:01:16,342 | 00:01:17,138
+
+Ross | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
+
+Ross | Sure. | 00:01:26,286 | 00:01:27,218
+
+Ross | Does it hurt? | 00:01:29,756 | 00:01:31,155
+
+Ross | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
+
+Ross | Chandler? | 00:01:35,361 | 00:01:36,385
+
+Ross | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
+
+Ross | As much as he needs. | 00:01:42,001 | 00:01:43,400
+
+Ross | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
+
+Ross | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
+
+Ross | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
+
+Ross | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
+
+Ross | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
+
+Ross | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
+
+Ross | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
+
+Ross | And hello to the rest. | 00:03:26,206 | 00:03:28,401
+
+Ross | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
+
+Ross | Will it be a problem? | 00:03:35,748 | 00:03:36,942
+
+Ross | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
+
+Ross | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Ross | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Ross | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Ross | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Ross | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Ross | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Ross | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Ross | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Ross | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Ross | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Ross | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Ross | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Ross | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Ross | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Ross | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Ross | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Ross | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Ross | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Ross | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Ross | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Ross | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Ross | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Ross | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Ross | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Ross | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Ross | For fur. | 00:06:11,070 | 00:06:12,833
+
+Ross | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Ross | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Ross | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Ross | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Ross | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Ross | Bras! | 00:06:37,864 | 00:06:39,388
+
+Ross | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Ross | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Ross | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Ross | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Ross | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Ross | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Ross | You bet. | 00:07:10,930 | 00:07:12,363
+
+Ross | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Ross | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Ross | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Ross | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Ross | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Ross | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Ross | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Ross | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Ross | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Ross | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Ross | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Ross | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Ross | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Ross | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Ross | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Ross | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Ross | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Ross | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Ross | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Ross | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Ross | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Ross | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Ross | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Ross | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Ross | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Ross | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Ross | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Ross | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Ross | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Ross | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Ross | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Ross | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Ross | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Ross | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Ross | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Ross | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Ross | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Ross | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Ross | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Ross | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Ross | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Ross | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Ross | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Ross | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Ross | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Ross | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Ross | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Ross | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Ross | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Ross | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Ross | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Ross | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Ross | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Ross | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Ross | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Ross | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Ross | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Ross | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Ross | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Ross | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Ross | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Ross | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Ross | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Susan | You can keep saying it, but it won't stop being true. | 00:13:55,301 | 00:13:58,236
+
+Joey |  You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Joey | Maybe I should get out of the game. They need guys up in housewares to serve cheese. | 00:15:20,452 | 00:15:26,253
+
+Chandler |  | 00:15:46,011 | 00:15:48,002
+
+Chandler | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Monica |  | 00:15:55,087 | 00:15:56,611
+
+Monica |  | 00:15:59,959 | 00:16:01,722
+
+Monica |  | 00:03:39,485 | 00:03:42,977
+
+Monica | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Monica | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Monica | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Monica | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Monica | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Monica | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Monica | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Monica | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Monica | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Monica | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Monica | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Monica | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Monica | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Monica | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Monica | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Monica | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Monica | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Monica | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Monica | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Monica | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Monica | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Monica | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Monica | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Monica | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Monica | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Monica | For fur. | 00:06:11,070 | 00:06:12,833
+
+Monica | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Monica | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Monica | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Monica | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Monica | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Monica | Bras! | 00:06:37,864 | 00:06:39,388
+
+Monica | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Monica | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Monica | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Monica | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Monica | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Monica | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Monica | You bet. | 00:07:10,930 | 00:07:12,363
+
+Monica | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Monica | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Monica | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Monica | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Monica | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Monica | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Monica | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Monica | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Monica | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Monica | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Monica | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Monica | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Monica | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Monica | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Monica | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Monica | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Monica | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Monica | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Monica | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Monica | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Monica | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Monica | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Monica | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Monica | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Monica | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Monica | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Monica | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Monica | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Monica | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Monica | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Monica | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Monica | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Monica | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Monica | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Monica | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Monica | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Monica | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Monica | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Monica | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Monica | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Monica | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Monica | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Monica | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Monica | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Monica | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Monica | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Monica | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Monica | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Monica | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Monica | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Monica | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Monica | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Monica | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Monica | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Monica | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Monica | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Monica | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Monica | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Monica | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Monica | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Monica | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Monica | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Monica | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Monica | You've tasted it. | 00:13:47,526 | 00:13:48,993
+
+Monica | Oh, you've tasted it. | 00:13:51,330 | 00:13:53,127
+
+Monica | You can keep saying it, but it won't stop being true. Give me the bottle. | 00:13:55,301 | 00:14:07,576
+
+Monica | Get me the towel. | 00:14:13,419 | 00:14:14,852
+
+Monica | Howdy. | 00:14:39,979 | 00:14:40,968
+
+Monica | Give me a box of juice. | 00:14:43,382 | 00:14:45,316
+
+Monica | Well, they switched me over to Hombre. Maybe it's because of the way you're dressed. | 00:14:47,753 | 00:14:53,287
+
+Monica | Or this guy's doing so good they want to put more people on it. | 00:14:54,760 | 00:14:58,355
+
+Monica | This guy goes through two bottles a day now. | 00:14:59,031 | 00:15:01,932
+
+Monica | What do you care? | 00:15:04,270 | 00:15:05,703
+
+Monica | You're an actor. This is your day job. It's nothing! | 00:15:06,639 | 00:15:09,802
+
+Monica | I know, but I was the best. You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Monica | Maybe I should get out of the game. They need guys up in housewares to serve cheese. Say you do that. Sooner or later, somebody will come along that slices a better cheddar. | 00:15:20,452 | 00:15:31,887
+
+Monica | Then where you gonna run? You're right. | 00:15:33,999 | 00:15:36,800
+
+Monica | I say you show him what you're made of. Stand your ground. Show him that you're the baddest Hombre west of the lingerie! | 00:15:37,036 | 00:15:45,201
+
+Monica | - I'm gonna do it! - All right! | 00:15:46,011 | 00:15:48,002
+
+Monica | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Monica | I don't know what to say. That's good because I'm not listening. I feel terrible. I really do. I'm sorry. Did my back hurt your knife? | 00:15:55,087 | 00:16:04,225
+
+Monica | Say that I'm friends with her. Is that so terrible? | 00:16:07,466 | 00:16:11,425
+
+Rachel |  | 00:16:49,608 | 00:16:52,441
+
+Phoebe |  | 00:16:56,915 | 00:17:01,852
+
+Monica |  | 00:11:29,488 | 00:11:33,618
+
+Rachel |  | 00:21:41,700 | 00:21:44,430
+
+Monica |  | 00:21:41,700 | 00:21:44,430
+
+Store Guy |  You boys ready? | 00:18:15,327 | 00:18:20,059
+
+Customer |  | 00:19:15,354 | 00:19:17,584
+
+Customer | You've blinded me! I'm suing! | 00:19:18,023 | 00:19:19,991
+
+Store Guy |  Was that too much pressure for him? | 00:00:22,956 | 00:00:26,415
+
+Store Guy | - Is he hungry already? - I guess so. | 00:00:28,194 | 00:00:31,459
+
+Store Guy | You know, it's... | 00:00:32,599 | 00:00:34,157
+
+Store Guy | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
+
+Store Guy | I gotta get one too. | 00:00:41,508 | 00:00:43,169
+
+Store Guy | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
+
+Store Guy | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
+
+Store Guy | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
+
+Store Guy | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
+
+Store Guy | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
+
+Store Guy | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
+
+Store Guy | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
+
+Store Guy | Carol? | 00:01:16,342 | 00:01:17,138
+
+Store Guy | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
+
+Store Guy | Sure. | 00:01:26,286 | 00:01:27,218
+
+Store Guy | Does it hurt? | 00:01:29,756 | 00:01:31,155
+
+Store Guy | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
+
+Store Guy | Chandler? | 00:01:35,361 | 00:01:36,385
+
+Store Guy | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
+
+Store Guy | As much as he needs. | 00:01:42,001 | 00:01:43,400
+
+Store Guy | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
+
+Store Guy | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
+
+Store Guy | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
+
+Store Guy | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
+
+Store Guy | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
+
+Store Guy | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
+
+Store Guy | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
+
+Store Guy | And hello to the rest. | 00:03:26,206 | 00:03:28,401
+
+Store Guy | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
+
+Store Guy | Will it be a problem? | 00:03:35,748 | 00:03:36,942
+
+Store Guy | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
+
+Store Guy | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Store Guy | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Store Guy | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Store Guy | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Store Guy | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Store Guy | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Store Guy | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Store Guy | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Store Guy | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Store Guy | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Store Guy | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Store Guy | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Store Guy | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Store Guy | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Store Guy | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Store Guy | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Store Guy | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Store Guy | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Store Guy | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Store Guy | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Store Guy | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Store Guy | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Store Guy | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Store Guy | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Store Guy | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Store Guy | For fur. | 00:06:11,070 | 00:06:12,833
+
+Store Guy | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Store Guy | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Store Guy | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Store Guy | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Store Guy | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Store Guy | Bras! | 00:06:37,864 | 00:06:39,388
+
+Store Guy | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Store Guy | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Store Guy | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Store Guy | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Store Guy | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Store Guy | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Store Guy | You bet. | 00:07:10,930 | 00:07:12,363
+
+Store Guy | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Store Guy | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Store Guy | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Store Guy | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Store Guy | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Store Guy | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Store Guy | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Store Guy | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Store Guy | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Store Guy | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Store Guy | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Store Guy | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Store Guy | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Store Guy | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Store Guy | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Store Guy | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Store Guy | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Store Guy | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Store Guy | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Store Guy | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Store Guy | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Store Guy | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Store Guy | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Store Guy | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Store Guy | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Store Guy | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Store Guy | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Store Guy | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Store Guy | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Store Guy | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Store Guy | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Store Guy | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Store Guy | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Store Guy | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Store Guy | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Store Guy | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Store Guy | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Store Guy | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Store Guy | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Store Guy | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Store Guy | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Store Guy | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Store Guy | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Store Guy | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Store Guy | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Store Guy | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Store Guy | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Store Guy | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Store Guy | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Store Guy | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Store Guy | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Store Guy | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Store Guy | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Store Guy | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Store Guy | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Store Guy | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Store Guy | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Store Guy | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Store Guy | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Store Guy | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Store Guy | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Store Guy | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Store Guy | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Store Guy | You've tasted it. | 00:13:47,526 | 00:13:48,993
+
+Store Guy | Oh, you've tasted it. | 00:13:51,330 | 00:13:53,127
+
+Store Guy | You can keep saying it, but it won't stop being true. Give me the bottle. | 00:13:55,301 | 00:14:07,576
+
+Store Guy | Get me the towel. | 00:14:13,419 | 00:14:14,852
+
+Store Guy | Howdy. | 00:14:39,979 | 00:14:40,968
+
+Store Guy | Give me a box of juice. | 00:14:43,382 | 00:14:45,316
+
+Store Guy | Well, they switched me over to Hombre. Maybe it's because of the way you're dressed. | 00:14:47,753 | 00:14:53,287
+
+Store Guy | Or this guy's doing so good they want to put more people on it. | 00:14:54,760 | 00:14:58,355
+
+Store Guy | This guy goes through two bottles a day now. | 00:14:59,031 | 00:15:01,932
+
+Store Guy | What do you care? | 00:15:04,270 | 00:15:05,703
+
+Store Guy | You're an actor. This is your day job. It's nothing! | 00:15:06,639 | 00:15:09,802
+
+Store Guy | I know, but I was the best. You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Store Guy | Maybe I should get out of the game. They need guys up in housewares to serve cheese. Say you do that. Sooner or later, somebody will come along that slices a better cheddar. | 00:15:20,452 | 00:15:31,887
+
+Store Guy | Then where you gonna run? You're right. | 00:15:33,999 | 00:15:36,800
+
+Store Guy | I say you show him what you're made of. Stand your ground. Show him that you're the baddest Hombre west of the lingerie! | 00:15:37,036 | 00:15:45,201
+
+Store Guy | - I'm gonna do it! - All right! | 00:15:46,011 | 00:15:48,002
+
+Store Guy | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Store Guy | I don't know what to say. That's good because I'm not listening. I feel terrible. I really do. I'm sorry. Did my back hurt your knife? | 00:15:55,087 | 00:16:04,225
+
+Store Guy | Say that I'm friends with her. Is that so terrible? | 00:16:07,466 | 00:16:11,425
+
+Store Guy | - It's that terrible? - You don't get it! | 00:16:12,471 | 00:16:14,939
+
+Store Guy | It's bad enough she stole the guy... | 00:16:15,207 | 00:16:16,902
+
+Store Guy | ...who may be the person I'm supposed to be with. | 00:16:17,176 | 00:16:19,667
+
+Store Guy | But now... | 00:16:20,145 | 00:16:21,112
+
+Store Guy | ...she's actually... But now she's actually stealing you! | 00:16:22,548 | 00:16:27,578
+
+Store Guy | What are you talking about? Nobody could steal me from you. | 00:16:31,323 | 00:16:35,823
+
+Store Guy | Because I'm friends with her doesn't make me any less friends with you. | 00:16:36,061 | 00:16:40,464
+
+Store Guy | You're my... | 00:16:41,934 | 00:16:43,333
+
+Store Guy | And we're... | 00:16:45,070 | 00:16:46,401
+
+Store Guy | - Oh, I love you! - I love you too! | 00:16:49,608 | 00:16:52,441
+
+Store Guy | You guys, I know that this really doesn't have anything to do with me. | 00:16:56,915 | 00:17:01,852
+
+Store Guy | But I love you guys too! | 00:17:02,087 | 00:17:03,645
+
+Store Guy | I really needed that. | 00:17:09,661 | 00:17:11,788
+
+Store Guy | I know that right now... ...you really need to hate Julie's guts. But she didn't do anything wrong. | 00:17:13,665 | 00:17:21,502
+
+Store Guy | She's just a girl who met a guy, and now they go out. I think that if you gave her a chance, you'd like her. | 00:17:22,174 | 00:17:29,848
+
+Store Guy | Will you give it a chance? | 00:17:32,384 | 00:17:33,976
+
+Store Guy | For me? | 00:17:34,887 | 00:17:36,149
+
+Store Guy | I'd do anything for you, you know that. | 00:17:38,457 | 00:17:40,516
+
+Store Guy | I'd do anything for you! | 00:17:41,193 | 00:17:43,661
+
+Store Guy | Wait, wait, wait! Mornin'. | 00:17:44,596 | 00:18:05,746
+
+Store Guy | I said, mornin'! | 00:18:08,320 | 00:18:11,118
+
+Store Guy | I heard you. | 00:18:12,624 | 00:18:13,750
+
+Store Guy | All right, everybody. I'm opening the doors. You boys ready? | 00:18:15,327 | 00:18:20,059
+
+Store Guy | Ready. | 00:18:25,537 | 00:18:26,333
+
+Store Guy | Yeah, I'm ready. You idiot! You stupid cowboy! | 00:18:27,206 | 00:19:17,584
+
+Store Guy | You've blinded me! I'm suing! | 00:19:18,023 | 00:19:19,991
+
+Store Guy | Oh, my God! Todd! What the hell did you do? | 00:19:20,259 | 00:19:23,820
+
+Hombre Man |  Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Hombre Man | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Hombre Man | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Hombre Man | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Hombre Man | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Hombre Man | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Hombre Man | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Hombre Man | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Hombre Man | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Hombre Man | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Hombre Man | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Hombre Man | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Hombre Man | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Hombre Man | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Hombre Man | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Hombre Man | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Hombre Man | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Hombre Man | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Hombre Man | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Hombre Man | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Hombre Man | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Hombre Man | You've tasted it. | 00:13:47,526 | 00:13:48,993
+
+Hombre Man | Oh, you've tasted it. | 00:13:51,330 | 00:13:53,127
+
+Hombre Man | You can keep saying it, but it won't stop being true. Give me the bottle. | 00:13:55,301 | 00:14:07,576
+
+Hombre Man | Get me the towel. | 00:14:13,419 | 00:14:14,852
+
+Hombre Man | Howdy. | 00:14:39,979 | 00:14:40,968
+
+Hombre Man | Give me a box of juice. | 00:14:43,382 | 00:14:45,316
+
+Hombre Man | Well, they switched me over to Hombre. Maybe it's because of the way you're dressed. | 00:14:47,753 | 00:14:53,287
+
+Hombre Man | Or this guy's doing so good they want to put more people on it. | 00:14:54,760 | 00:14:58,355
+
+Hombre Man | This guy goes through two bottles a day now. | 00:14:59,031 | 00:15:01,932
+
+Hombre Man | What do you care? | 00:15:04,270 | 00:15:05,703
+
+Hombre Man | You're an actor. This is your day job. It's nothing! | 00:15:06,639 | 00:15:09,802
+
+Hombre Man | I know, but I was the best. You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Hombre Man | Maybe I should get out of the game. They need guys up in housewares to serve cheese. Say you do that. Sooner or later, somebody will come along that slices a better cheddar. | 00:15:20,452 | 00:15:31,887
+
+Hombre Man | Then where you gonna run? You're right. | 00:15:33,999 | 00:15:36,800
+
+Hombre Man | I say you show him what you're made of. Stand your ground. Show him that you're the baddest Hombre west of the lingerie! | 00:15:37,036 | 00:15:45,201
+
+Hombre Man | - I'm gonna do it! - All right! | 00:15:46,011 | 00:15:48,002
+
+Hombre Man | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Hombre Man | I don't know what to say. That's good because I'm not listening. I feel terrible. I really do. I'm sorry. Did my back hurt your knife? | 00:15:55,087 | 00:16:04,225
+
+Hombre Man | Say that I'm friends with her. Is that so terrible? | 00:16:07,466 | 00:16:11,425
+
+Hombre Man | - It's that terrible? - You don't get it! | 00:16:12,471 | 00:16:14,939
+
+Hombre Man | It's bad enough she stole the guy... | 00:16:15,207 | 00:16:16,902
+
+Hombre Man | ...who may be the person I'm supposed to be with. | 00:16:17,176 | 00:16:19,667
+
+Hombre Man | But now... | 00:16:20,145 | 00:16:21,112
+
+Hombre Man | ...she's actually... But now she's actually stealing you! | 00:16:22,548 | 00:16:27,578
+
+Hombre Man | What are you talking about? Nobody could steal me from you. | 00:16:31,323 | 00:16:35,823
+
+Hombre Man | Because I'm friends with her doesn't make me any less friends with you. | 00:16:36,061 | 00:16:40,464
+
+Hombre Man | You're my... | 00:16:41,934 | 00:16:43,333
+
+Hombre Man | And we're... | 00:16:45,070 | 00:16:46,401
+
+Hombre Man | - Oh, I love you! - I love you too! | 00:16:49,608 | 00:16:52,441
+
+Hombre Man | You guys, I know that this really doesn't have anything to do with me. | 00:16:56,915 | 00:17:01,852
+
+Hombre Man | But I love you guys too! | 00:17:02,087 | 00:17:03,645
+
+Hombre Man | I really needed that. | 00:17:09,661 | 00:17:11,788
+
+Hombre Man | I know that right now... ...you really need to hate Julie's guts. But she didn't do anything wrong. | 00:17:13,665 | 00:17:21,502
+
+Hombre Man | She's just a girl who met a guy, and now they go out. I think that if you gave her a chance, you'd like her. | 00:17:22,174 | 00:17:29,848
+
+Hombre Man | Will you give it a chance? | 00:17:32,384 | 00:17:33,976
+
+Hombre Man | For me? | 00:17:34,887 | 00:17:36,149
+
+Hombre Man | I'd do anything for you, you know that. | 00:17:38,457 | 00:17:40,516
+
+Hombre Man | I'd do anything for you! | 00:17:41,193 | 00:17:43,661
+
+Hombre Man | Wait, wait, wait! Mornin'. | 00:17:44,596 | 00:18:05,746
+
+Hombre Man | I said, mornin'! | 00:18:08,320 | 00:18:11,118
+
+Hombre Man | I heard you. | 00:18:12,624 | 00:18:13,750
+
+Hombre Man | All right, everybody. I'm opening the doors. You boys ready? | 00:18:15,327 | 00:18:20,059
+
+Hombre Man | Ready. | 00:18:25,537 | 00:18:26,333
+
+Hombre Man | Yeah, I'm ready. You idiot! You stupid cowboy! | 00:18:27,206 | 00:19:17,584
+
+Hombre Man | You've blinded me! I'm suing! | 00:19:18,023 | 00:19:19,991
+
+Hombre Man | Oh, my God! Todd! What the hell did you do? | 00:19:20,259 | 00:19:23,820
+
+Hombre Man | Sorry. I'm such a doofus! | 00:19:24,329 | 00:19:25,887
+
+Hombre Man | I'm so sorry. I'm so sorry. | 00:19:26,198 | 00:19:28,496
+
+Annabelle |  | 00:00:05,872 | 00:00:08,773
+
+Annabelle | ...in 20 minutes, but I couldn't resist! | 00:00:09,009 | 00:00:11,705
+
+Annabelle | Look at these. Hey, Ben. | 00:00:15,582 | 00:00:18,883
+
+Annabelle | "Just do it"! | 00:00:19,119 | 00:00:20,746
+
+Annabelle | Oh, my God! Was that too much pressure for him? | 00:00:22,956 | 00:00:26,415
+
+Annabelle | - Is he hungry already? - I guess so. | 00:00:28,194 | 00:00:31,459
+
+Annabelle | You know, it's... | 00:00:32,599 | 00:00:34,157
+
+Annabelle | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
+
+Annabelle | I gotta get one too. | 00:00:41,508 | 00:00:43,169
+
+Annabelle | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
+
+Annabelle | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
+
+Annabelle | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
+
+Annabelle | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
+
+Annabelle | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
+
+Annabelle | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
+
+Annabelle | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
+
+Annabelle | Carol? | 00:01:16,342 | 00:01:17,138
+
+Annabelle | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
+
+Annabelle | Sure. | 00:01:26,286 | 00:01:27,218
+
+Annabelle | Does it hurt? | 00:01:29,756 | 00:01:31,155
+
+Annabelle | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
+
+Annabelle | Chandler? | 00:01:35,361 | 00:01:36,385
+
+Annabelle | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
+
+Annabelle | As much as he needs. | 00:01:42,001 | 00:01:43,400
+
+Annabelle | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
+
+Annabelle | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
+
+Annabelle | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
+
+Annabelle | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
+
+Annabelle | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
+
+Annabelle | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
+
+Annabelle | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
+
+Annabelle | And hello to the rest. | 00:03:26,206 | 00:03:28,401
+
+Annabelle | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
+
+Annabelle | Will it be a problem? | 00:03:35,748 | 00:03:36,942
+
+Annabelle | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
+
+Annabelle | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Annabelle | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Annabelle | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Annabelle | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Annabelle | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Annabelle | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Annabelle | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Annabelle | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Annabelle | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Annabelle | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Annabelle | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Annabelle | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Annabelle | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Annabelle | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Annabelle | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Annabelle | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Annabelle | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Annabelle | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Annabelle | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Annabelle | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Annabelle | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Annabelle | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Annabelle | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Annabelle | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Annabelle | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Annabelle | For fur. | 00:06:11,070 | 00:06:12,833
+
+Annabelle | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Annabelle | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Annabelle | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Annabelle | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Annabelle | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Annabelle | Bras! | 00:06:37,864 | 00:06:39,388
+
+Annabelle | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Annabelle | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Annabelle | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Annabelle | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Annabelle | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Annabelle | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Annabelle | You bet. | 00:07:10,930 | 00:07:12,363
+
+Annabelle | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Annabelle | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Annabelle | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Annabelle | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Annabelle | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Annabelle | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Annabelle | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Annabelle | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Annabelle | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Annabelle | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Annabelle | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Annabelle | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Annabelle | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Annabelle | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Annabelle | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Annabelle | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Annabelle | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Annabelle | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Annabelle | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Annabelle | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Annabelle | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Annabelle | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Annabelle | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Annabelle | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Annabelle | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Annabelle | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Annabelle | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Annabelle | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Annabelle | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Annabelle | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Annabelle | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Annabelle | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Annabelle | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Annabelle | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Annabelle | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Annabelle | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Annabelle | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Annabelle | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Annabelle | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Annabelle | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Annabelle | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Annabelle | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Annabelle | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Annabelle | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Annabelle | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Annabelle | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Annabelle | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Annabelle | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Annabelle | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Annabelle | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Annabelle | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Annabelle | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Annabelle | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Annabelle | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Annabelle | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Annabelle | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Annabelle | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Annabelle | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Annabelle | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Annabelle | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Annabelle | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Annabelle | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Annabelle | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Annabelle | You've tasted it. | 00:13:47,526 | 00:13:48,993
+
+Annabelle | Oh, you've tasted it. | 00:13:51,330 | 00:13:53,127
+
+Annabelle | You can keep saying it, but it won't stop being true. Give me the bottle. | 00:13:55,301 | 00:14:07,576
+
+Annabelle | Get me the towel. | 00:14:13,419 | 00:14:14,852
+
+Annabelle | Howdy. | 00:14:39,979 | 00:14:40,968
+
+Annabelle | Give me a box of juice. | 00:14:43,382 | 00:14:45,316
+
+Annabelle | Well, they switched me over to Hombre. Maybe it's because of the way you're dressed. | 00:14:47,753 | 00:14:53,287
+
+Annabelle | Or this guy's doing so good they want to put more people on it. | 00:14:54,760 | 00:14:58,355
+
+Annabelle | This guy goes through two bottles a day now. | 00:14:59,031 | 00:15:01,932
+
+Annabelle | What do you care? | 00:15:04,270 | 00:15:05,703
+
+Annabelle | You're an actor. This is your day job. It's nothing! | 00:15:06,639 | 00:15:09,802
+
+Annabelle | I know, but I was the best. You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Annabelle | Maybe I should get out of the game. They need guys up in housewares to serve cheese. Say you do that. Sooner or later, somebody will come along that slices a better cheddar. | 00:15:20,452 | 00:15:31,887
+
+Annabelle | Then where you gonna run? You're right. | 00:15:33,999 | 00:15:36,800
+
+Annabelle | I say you show him what you're made of. Stand your ground. Show him that you're the baddest Hombre west of the lingerie! | 00:15:37,036 | 00:15:45,201
+
+Annabelle | - I'm gonna do it! - All right! | 00:15:46,011 | 00:15:48,002
+
+Annabelle | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Annabelle | I don't know what to say. That's good because I'm not listening. I feel terrible. I really do. I'm sorry. Did my back hurt your knife? | 00:15:55,087 | 00:16:04,225
+
+Annabelle | Say that I'm friends with her. Is that so terrible? | 00:16:07,466 | 00:16:11,425
+
+Annabelle | - It's that terrible? - You don't get it! | 00:16:12,471 | 00:16:14,939
+
+Annabelle | It's bad enough she stole the guy... | 00:16:15,207 | 00:16:16,902
+
+Annabelle | ...who may be the person I'm supposed to be with. | 00:16:17,176 | 00:16:19,667
+
+Annabelle | But now... | 00:16:20,145 | 00:16:21,112
+
+Annabelle | ...she's actually... But now she's actually stealing you! | 00:16:22,548 | 00:16:27,578
+
+Annabelle | What are you talking about? Nobody could steal me from you. | 00:16:31,323 | 00:16:35,823
+
+Annabelle | Because I'm friends with her doesn't make me any less friends with you. | 00:16:36,061 | 00:16:40,464
+
+Annabelle | You're my... | 00:16:41,934 | 00:16:43,333
+
+Annabelle | And we're... | 00:16:45,070 | 00:16:46,401
+
+Annabelle | - Oh, I love you! - I love you too! | 00:16:49,608 | 00:16:52,441
+
+Annabelle | You guys, I know that this really doesn't have anything to do with me. | 00:16:56,915 | 00:17:01,852
+
+Annabelle | But I love you guys too! | 00:17:02,087 | 00:17:03,645
+
+Annabelle | I really needed that. | 00:17:09,661 | 00:17:11,788
+
+Annabelle | I know that right now... ...you really need to hate Julie's guts. But she didn't do anything wrong. | 00:17:13,665 | 00:17:21,502
+
+Annabelle | She's just a girl who met a guy, and now they go out. I think that if you gave her a chance, you'd like her. | 00:17:22,174 | 00:17:29,848
+
+Annabelle | Will you give it a chance? | 00:17:32,384 | 00:17:33,976
+
+Annabelle | For me? | 00:17:34,887 | 00:17:36,149
+
+Annabelle | I'd do anything for you, you know that. | 00:17:38,457 | 00:17:40,516
+
+Annabelle | I'd do anything for you! | 00:17:41,193 | 00:17:43,661
+
+Annabelle | Wait, wait, wait! Mornin'. | 00:17:44,596 | 00:18:05,746
+
+Annabelle | I said, mornin'! | 00:18:08,320 | 00:18:11,118
+
+Annabelle | I heard you. | 00:18:12,624 | 00:18:13,750
+
+Annabelle | All right, everybody. I'm opening the doors. You boys ready? | 00:18:15,327 | 00:18:20,059
+
+Annabelle | Ready. | 00:18:25,537 | 00:18:26,333
+
+Annabelle | Yeah, I'm ready. You idiot! You stupid cowboy! | 00:18:27,206 | 00:19:17,584
+
+Annabelle | You've blinded me! I'm suing! | 00:19:18,023 | 00:19:19,991
+
+Annabelle | Oh, my God! Todd! What the hell did you do? | 00:19:20,259 | 00:19:23,820
+
+Annabelle | Sorry. I'm such a doofus! | 00:19:24,329 | 00:19:25,887
+
+Annabelle | I'm so sorry. I'm so sorry. | 00:19:26,198 | 00:19:28,496
+
+Annabelle | My God, what happened? | 00:19:29,735 | 00:19:31,362
+
+Joey | These new kids, they never last. | 00:19:32,437 | 00:19:34,803
+
+Joey | Sooner or later they all... | 00:19:35,073 | 00:19:37,473
+
+Joey | ...stop lasting. | 00:19:38,177 | 00:19:39,872
+
+Joey | What do you say I buy you that cup of coffee now? | 00:19:40,612 | 00:19:44,070
+
+Julie |  | 00:12:31,283 | 00:12:33,478
+
+Julie | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Julie | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Julie | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Julie | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Julie | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Julie | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Julie | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Julie | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Julie | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Julie | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Julie | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Julie | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Julie | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Julie | You've tasted it. | 00:13:47,526 | 00:13:48,993
+
+Julie | Oh, you've tasted it. | 00:13:51,330 | 00:13:53,127
+
+Julie | You can keep saying it, but it won't stop being true. Give me the bottle. | 00:13:55,301 | 00:14:07,576
+
+Julie | Get me the towel. | 00:14:13,419 | 00:14:14,852
+
+Julie | Howdy. | 00:14:39,979 | 00:14:40,968
+
+Julie | Give me a box of juice. | 00:14:43,382 | 00:14:45,316
+
+Julie | Well, they switched me over to Hombre. Maybe it's because of the way you're dressed. | 00:14:47,753 | 00:14:53,287
+
+Julie | Or this guy's doing so good they want to put more people on it. | 00:14:54,760 | 00:14:58,355
+
+Julie | This guy goes through two bottles a day now. | 00:14:59,031 | 00:15:01,932
+
+Julie | What do you care? | 00:15:04,270 | 00:15:05,703
+
+Julie | You're an actor. This is your day job. It's nothing! | 00:15:06,639 | 00:15:09,802
+
+Julie | I know, but I was the best. You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Julie | Maybe I should get out of the game. They need guys up in housewares to serve cheese. Say you do that. Sooner or later, somebody will come along that slices a better cheddar. | 00:15:20,452 | 00:15:31,887
+
+Julie | Then where you gonna run? You're right. | 00:15:33,999 | 00:15:36,800
+
+Julie | I say you show him what you're made of. Stand your ground. Show him that you're the baddest Hombre west of the lingerie! | 00:15:37,036 | 00:15:45,201
+
+Julie | - I'm gonna do it! - All right! | 00:15:46,011 | 00:15:48,002
+
+Julie | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Julie | I don't know what to say. That's good because I'm not listening. I feel terrible. I really do. I'm sorry. Did my back hurt your knife? | 00:15:55,087 | 00:16:04,225
+
+Julie | Say that I'm friends with her. Is that so terrible? | 00:16:07,466 | 00:16:11,425
+
+Julie | - It's that terrible? - You don't get it! | 00:16:12,471 | 00:16:14,939
+
+Julie | It's bad enough she stole the guy... | 00:16:15,207 | 00:16:16,902
+
+Julie | ...who may be the person I'm supposed to be with. | 00:16:17,176 | 00:16:19,667
+
+Julie | But now... | 00:16:20,145 | 00:16:21,112
+
+Julie | ...she's actually... But now she's actually stealing you! | 00:16:22,548 | 00:16:27,578
+
+Julie | What are you talking about? Nobody could steal me from you. | 00:16:31,323 | 00:16:35,823
+
+Julie | Because I'm friends with her doesn't make me any less friends with you. | 00:16:36,061 | 00:16:40,464
+
+Julie | You're my... | 00:16:41,934 | 00:16:43,333
+
+Julie | And we're... | 00:16:45,070 | 00:16:46,401
+
+Julie | - Oh, I love you! - I love you too! | 00:16:49,608 | 00:16:52,441
+
+Julie | You guys, I know that this really doesn't have anything to do with me. | 00:16:56,915 | 00:17:01,852
+
+Julie | But I love you guys too! | 00:17:02,087 | 00:17:03,645
+
+Julie | I really needed that. | 00:17:09,661 | 00:17:11,788
+
+Julie | I know that right now... ...you really need to hate Julie's guts. But she didn't do anything wrong. | 00:17:13,665 | 00:17:21,502
+
+Julie | She's just a girl who met a guy, and now they go out. I think that if you gave her a chance, you'd like her. | 00:17:22,174 | 00:17:29,848
+
+Julie | Will you give it a chance? | 00:17:32,384 | 00:17:33,976
+
+Julie | For me? | 00:17:34,887 | 00:17:36,149
+
+Julie | I'd do anything for you, you know that. | 00:17:38,457 | 00:17:40,516
+
+Julie | I'd do anything for you! | 00:17:41,193 | 00:17:43,661
+
+Julie | Wait, wait, wait! Mornin'. | 00:17:44,596 | 00:18:05,746
+
+Julie | I said, mornin'! | 00:18:08,320 | 00:18:11,118
+
+Julie | I heard you. | 00:18:12,624 | 00:18:13,750
+
+Julie | All right, everybody. I'm opening the doors. You boys ready? | 00:18:15,327 | 00:18:20,059
+
+Julie | Ready. | 00:18:25,537 | 00:18:26,333
+
+Julie | Yeah, I'm ready. You idiot! You stupid cowboy! | 00:18:27,206 | 00:19:17,584
+
+Julie | You've blinded me! I'm suing! | 00:19:18,023 | 00:19:19,991
+
+Julie | Oh, my God! Todd! What the hell did you do? | 00:19:20,259 | 00:19:23,820
+
+Julie | Sorry. I'm such a doofus! | 00:19:24,329 | 00:19:25,887
+
+Julie | I'm so sorry. I'm so sorry. | 00:19:26,198 | 00:19:28,496
+
+Julie | My God, what happened? | 00:19:29,735 | 00:19:31,362
+
+Julie | These new kids, they never last. | 00:19:32,437 | 00:19:34,803
+
+Julie | Sooner or later they all... | 00:19:35,073 | 00:19:37,473
+
+Julie | ...stop lasting. | 00:19:38,177 | 00:19:39,872
+
+Julie | What do you say I buy you that cup of coffee now? Sure. I just thought we should hang out. I mean, you know, we've never really talked. I guess you'd know that, being one of the two of us. I know. | 00:19:40,612 | 00:20:15,302
+
+Julie | I probably shouldn't even tell you this... ...but I'm pretty much totally intimidated by you. | 00:20:16,048 | 00:20:22,612
+
+Rachel | Well, you're not totally paranoid. | 00:20:49,781 | 00:20:51,544
+
+Rachel | Yeah, that'd be great. I'd love it. | 00:21:41,700 | 00:21:44,430
+
+Julie | I'd love it too. | 00:21:44,703 | 00:21:46,398
+
+Julie | Shoot, I gotta go. - So I'll talk to you later. - All right, Julie. | 00:21:47,472 | 00:21:51,909
+
+Ross |  | 00:00:05,872 | 00:00:08,773
+
+Ross | ...in 20 minutes, but I couldn't resist! | 00:00:09,009 | 00:00:11,705
+
+Ross | Look at these. Hey, Ben. | 00:00:15,582 | 00:00:18,883
+
+Ross | "Just do it"! | 00:00:19,119 | 00:00:20,746
+
+Ross | Oh, my God! Was that too much pressure for him? | 00:00:22,956 | 00:00:26,415
+
+Ross | - Is he hungry already? - I guess so. | 00:00:28,194 | 00:00:31,459
+
+Ross | You know, it's... | 00:00:32,599 | 00:00:34,157
+
+Ross | Something funny about sneakers. I'll be right back. | 00:00:37,203 | 00:00:40,195
+
+Ross | I gotta get one too. | 00:00:41,508 | 00:00:43,169
+
+Ross | Hey, what are you guys doing? | 00:00:45,912 | 00:00:47,743
+
+Ross | We're just hanging out by the spoons. | 00:00:48,081 | 00:00:50,447
+
+Ross | Ladle? Will you guys grow up? | 00:00:51,151 | 00:00:53,946
+
+Ross | This is the most nature beautiful thing in the world. | 00:00:54,187 | 00:00:56,951
+
+Ross | Yeah, we know. But there's a baby sucking on it. | 00:00:57,223 | 00:01:00,192
+
+Ross | This is my son having lunch, okay? It'll happen a lot, so get used to it. | 00:01:02,395 | 00:01:07,526
+
+Ross | If you're uncomfortable, just ask questions. Carol's fine with it. | 00:01:08,068 | 00:01:13,298
+
+Ross | Carol? | 00:01:16,342 | 00:01:17,138
+
+Ross | I'm wondering, could Joey ask you a question about breast-feeding? | 00:01:20,146 | 00:01:23,775
+
+Ross | Sure. | 00:01:26,286 | 00:01:27,218
+
+Ross | Does it hurt? | 00:01:29,756 | 00:01:31,155
+
+Ross | It did at first, but not anymore. | 00:01:32,459 | 00:01:34,927
+
+Ross | Chandler? | 00:01:35,361 | 00:01:36,385
+
+Ross | So, how often can you do it? | 00:01:39,365 | 00:01:41,333
+
+Ross | As much as he needs. | 00:01:42,001 | 00:01:43,400
+
+Ross | Okay, I got one, I got one. | 00:01:44,204 | 00:01:46,695
+
+Ross | If he blows into one, does the other one get bigger? | 00:01:49,042 | 00:01:52,068
+
+Ross | The One With the Breast Milk - Any muffins left? - Yeah, I forget which ones. You're busy, I'll get it. - Anyone else want one? - No, thanks. You're losing your apron. Let me get it. | 00:01:55,882 | 00:02:53,037
+
+Ross | - There you go. - Thank you. | 00:02:54,107 | 00:02:56,007
+
+Ross | What a bitch! I have a friend at Bloomingdale's who's quitting... ...and he wants to abuse his discount. Anyone want to come take advantage of it? I have to take my grandmother to the vet. | 00:02:57,777 | 00:03:13,885
+
+Ross | - I'll go with you. - Great. | 00:03:18,631 | 00:03:20,326
+
+Ross | - Hi, honey. - Hey, sweetums. | 00:03:23,369 | 00:03:25,098
+
+Ross | And hello to the rest. | 00:03:26,206 | 00:03:28,401
+
+Ross | You can't go shopping with her. What about Rachel? | 00:03:31,177 | 00:03:34,806
+
+Ross | Will it be a problem? | 00:03:35,748 | 00:03:36,942
+
+Ross | You're going to Bloomingdale's with Julie. It's like cheating on Rachel in her house of worship. | 00:03:37,183 | 00:03:42,977
+
+Ross | Monica, she will kill you. | 00:03:44,524 | 00:03:46,116
+
+Ross | She will kill you like a dog in the street! | 00:03:47,827 | 00:03:50,489
+
+Ross | So Jules tells me you guys are going shopping tomorrow. | 00:03:55,101 | 00:03:58,696
+
+Ross | It's actually not that big a deal. | 00:03:59,372 | 00:04:01,932
+
+Ross | It's a big deal to me. This is great. I really appreciate this. You're welcome. | 00:04:02,242 | 00:04:08,280
+
+Ross | Bijan for men? | 00:04:23,129 | 00:04:24,357
+
+Ross | Bijan for men? | 00:04:25,832 | 00:04:27,060
+
+Ross | - Hey, Annabel. - Hey, Joey. Did you hear about the new guy? | 00:04:30,803 | 00:04:34,798
+
+Ross | Nobody knows his name. Me and the girls call him "The Hombre Man." | 00:04:35,108 | 00:04:39,477
+
+Ross | Hombre? | 00:04:48,921 | 00:04:50,286
+
+Ross | What's he doing in my section? I guess he doesn't know. Well, he's gonna. | 00:04:55,128 | 00:05:01,190
+
+Ross | I'll see you a little later, okay? | 00:05:02,302 | 00:05:04,293
+
+Ross | Hey, how you doing? Mornin'. | 00:05:07,607 | 00:05:10,574
+
+Ross | Listen, I know you're new... ...but it's understood that everything... | 00:05:11,477 | 00:05:16,876
+
+Ross | ...from young men's to the escalator is my territory. | 00:05:17,083 | 00:05:20,519
+
+Ross | "Your territory"? | 00:05:22,221 | 00:05:24,246
+
+Ross | - Bijan for men? - No, thanks. Hombre? | 00:05:25,625 | 00:05:28,892
+
+Ross | Yeah, all right. | 00:05:29,228 | 00:05:31,355
+
+Ross | You were saying? | 00:05:38,137 | 00:05:39,195
+
+Ross | Phoebe, listen. You were with me, and we were shopping all day. | 00:05:43,242 | 00:05:47,178
+
+Ross | We shopped and we had lunch. | 00:05:48,147 | 00:05:49,705
+
+Ross | What did I have? - You had a salad. - No wonder I don't feel full. | 00:05:50,016 | 00:05:55,116
+
+Ross | Hi. What's up? I went shopping with Monica and I had a salad. | 00:05:56,322 | 00:06:00,625
+
+Ross | Good, Pheebs. What'd you buy? | 00:06:02,895 | 00:06:05,090
+
+Ross | We went shopping for... For... | 00:06:06,666 | 00:06:10,627
+
+Ross | For fur. | 00:06:11,070 | 00:06:12,833
+
+Ross | You went shopping for fur? | 00:06:15,408 | 00:06:17,968
+
+Ross | And then I realized that I'm against that. | 00:06:19,112 | 00:06:21,706
+
+Ross | So then we bought some... | 00:06:23,116 | 00:06:25,243
+
+Ross | Boobs. | 00:06:26,686 | 00:06:27,778
+
+Ross | You bought boobs? | 00:06:33,693 | 00:06:34,591
+
+Ross | Bras! | 00:06:37,864 | 00:06:39,388
+
+Ross | We bought bras! | 00:06:40,266 | 00:06:41,358
+
+Ross | We bought bras. | 00:06:42,368 | 00:06:44,529
+
+Ross | Bijan for men? Bijan for men? Bijan for... | 00:06:47,673 | 00:06:52,776
+
+Ross | Hey, Annabel. | 00:06:54,714 | 00:06:55,738
+
+Ross | I was wondering if after work we could grab a cup of coffee? Actually, I sort of have plans. | 00:06:56,182 | 00:07:02,654
+
+Ross | You ready, Annabel? | 00:07:07,994 | 00:07:09,552
+
+Ross | You bet. | 00:07:10,930 | 00:07:12,363
+
+Ross | Maybe some other time. | 00:07:14,167 | 00:07:15,395
+
+Ross | It's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? | 00:07:26,112 | 00:07:31,849
+
+Ross | Bijan for men! | 00:07:32,318 | 00:07:33,910
+
+Ross | And this is Funny Clown. It's only for after his naps, not before, or he won't sleep. We've been through this before. We have a good time. We laugh, we play. It's like we're father and son. | 00:07:35,488 | 00:07:48,229
+
+Ross | Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person. | 00:07:50,102 | 00:07:57,274
+
+Ross | This is so cute! I got that for him! | 00:07:59,345 | 00:08:02,905
+
+Ross | "My Mommies Love Me." | 00:08:03,216 | 00:08:04,683
+
+Ross | That's clever. | 00:08:08,621 | 00:08:10,145
+
+Ross | Oh, hi, Jul... | 00:08:12,792 | 00:08:14,487
+
+Ross | Hi, Jew! | 00:08:15,895 | 00:08:17,328
+
+Ross | Okay, sure. That'd be great. See you then. Bye. | 00:08:22,268 | 00:08:26,599
+
+Ross | Did you just say, "Hi, Jew"? | 00:08:27,073 | 00:08:29,098
+
+Ross | Yes, I did. That was my friend Eddie Moskowitz. | 00:08:34,146 | 00:08:37,941
+
+Ross | Yeah, he likes it. Reaffirms his faith. | 00:08:46,526 | 00:08:49,290
+
+Ross | Ben, dinner! | 00:08:54,734 | 00:08:56,702
+
+Ross | Thanks, Aunt Pheebs. Did you microwave that? You can't do that to breast milk. | 00:08:57,637 | 00:09:02,741
+
+Ross | I think I know how to heat breast milk. | 00:09:03,009 | 00:09:05,876
+
+Ross | What did you just do? I licked my arm, what? It's breast milk! So? Phoebe, that is juice squeezed from a person. | 00:09:09,649 | 00:09:21,121
+
+Ross | What is the big deal? | 00:09:22,828 | 00:09:24,819
+
+Ross | What did you just do? | 00:09:26,966 | 00:09:28,797
+
+Ross | Can people stop drinking the breast milk? | 00:09:30,903 | 00:09:34,304
+
+Ross | You won't even taste it? | 00:09:35,908 | 00:09:37,500
+
+Ross | Not even if you just pretend it's milk? Not even if Carol's breast had a picture of a missing child on it. | 00:09:39,011 | 00:09:45,608
+
+Ross | - Where is everybody? - At the park. Where have you been? | 00:09:53,392 | 00:09:56,759
+
+Ross | Just out. Had some lunch. Just me. A little quality time with me. | 00:09:57,363 | 00:10:02,864
+
+Ross | - Thanks for your jacket. - No problem. | 00:10:04,236 | 00:10:05,965
+
+Ross | You can borrow it, by the way. | 00:10:06,739 | 00:10:09,037
+
+Ross | Here are your keys, honey. | 00:10:10,276 | 00:10:12,107
+
+Ross | If you were at lunch alone, how come it cost you $53? | 00:10:16,115 | 00:10:19,915
+
+Ross | You know what probably happened? Someone stole my credit card. | 00:10:23,289 | 00:10:27,419
+
+Ross | And put the receipt back in your pocket? | 00:10:29,528 | 00:10:31,758
+
+Ross | That is an excellent, excellent question. That is excellent. | 00:10:33,532 | 00:10:38,168
+
+Ross | What's with you? Who did you have lunch with? - Judy. - Who? | 00:10:39,538 | 00:10:43,936
+
+Ross | - Julie. - What? Jody. | 00:10:44,210 | 00:10:46,775
+
+Ross | You were with Julie? | 00:10:48,481 | 00:10:49,778
+
+Ross | When it started, I was just trying to be nice to her... | 00:10:51,183 | 00:10:54,710
+
+Ross | ...because she was my brother's girlfriend. | 00:10:55,021 | 00:10:57,581
+
+Ross | And then one thing led to another... ...and before I knew it, we were... ...shopping. | 00:10:58,024 | 00:11:06,364
+
+Ross | Oh, my God! | 00:11:11,303 | 00:11:12,235
+
+Ross | Wait, we only did it once. | 00:11:14,473 | 00:11:16,304
+
+Ross | It didn't meant anything to me! | 00:11:18,511 | 00:11:20,069
+
+Ross | Rachal, I was thinking of you the whole time. | 00:11:23,649 | 00:11:26,447
+
+Ross | Look, I'm sorry, all right? I never meant for you to find out. Oh, please! Please! You wanted to get caught! | 00:11:29,488 | 00:11:37,522
+
+Ross | That is not true! So you just happened to leave it in here? | 00:11:38,097 | 00:11:42,000
+
+Ross | Did it ever occur to you that I might just be that stupid? | 00:11:43,069 | 00:11:46,732
+
+Ross | Okay, I just have to know one thing. | 00:11:48,708 | 00:11:50,938
+
+Ross | Did you go with her to Bloomingdale's? Okay, I just really need to not be with you right now. | 00:11:54,814 | 00:12:14,891
+
+Ross | Hi, who's this? | 00:12:25,778 | 00:12:26,802
+
+Ross | Hi, Joanne. Is Rachel working? It's Monica. | 00:12:27,179 | 00:12:30,171
+
+Ross | Yes, I know I did a horrible thing. | 00:12:31,283 | 00:12:33,478
+
+Ross | Joanne, it's not as simple as all that. | 00:12:34,053 | 00:12:36,613
+
+Ross | No, I don't care what Steve thinks. Hi, Steve. | 00:12:38,190 | 00:12:42,092
+
+Ross | How did we do? I tasted Ben's milk and Ross freaked out. | 00:12:47,466 | 00:12:51,528
+
+Ross | I did not freak out. - Why'd you freak out? - Because it's breast milk. | 00:12:52,371 | 00:12:57,003
+
+Ross | It's gross! | 00:12:58,110 | 00:12:58,940
+
+Ross | My breast milk is gross? | 00:12:59,979 | 00:13:01,412
+
+Ross | This should be fun. | 00:13:03,315 | 00:13:05,249
+
+Ross | There's nothing wrong with it. I just don't think breast milk is for adults. | 00:13:07,286 | 00:13:12,918
+
+Ross | Of course, the packaging does appeal to grownups and kids. | 00:13:13,225 | 00:13:16,456
+
+Ross | Don't be silly. I've tried it. It's no big deal. Just taste it. | 00:13:18,764 | 00:13:22,798
+
+Ross | That would be no. | 00:13:24,637 | 00:13:26,434
+
+Ross | - Come on. - Try it. It's natural. It doesn't taste bad. Yeah, it tastes kind of sweet. Sort of like... Like what? Cantaloupe juice. Exactly. | 00:13:27,339 | 00:13:38,080
+
+Ross | You've tasted it. | 00:13:45,324 | 00:13:46,814
+
+Ross | You've tasted it. | 00:13:47,526 | 00:13:48,993
+
+Ross | Oh, you've tasted it. | 00:13:51,330 | 00:13:53,127
+
+Ross | You can keep saying it, but it won't stop being true. Give me the bottle. | 00:13:55,301 | 00:14:07,576
+
+Ross | Get me the towel. | 00:14:13,419 | 00:14:14,852
+
+Ross | Howdy. | 00:14:39,979 | 00:14:40,968
+
+Ross | Give me a box of juice. | 00:14:43,382 | 00:14:45,316
+
+Ross | Well, they switched me over to Hombre. Maybe it's because of the way you're dressed. | 00:14:47,753 | 00:14:53,287
+
+Ross | Or this guy's doing so good they want to put more people on it. | 00:14:54,760 | 00:14:58,355
+
+Ross | This guy goes through two bottles a day now. | 00:14:59,031 | 00:15:01,932
+
+Ross | What do you care? | 00:15:04,270 | 00:15:05,703
+
+Ross | You're an actor. This is your day job. It's nothing! | 00:15:06,639 | 00:15:09,802
+
+Ross | I know, but I was the best. You know? I liked being the best. | 00:15:10,075 | 00:15:15,871
+
+Ross | Maybe I should get out of the game. They need guys up in housewares to serve cheese. Say you do that. Sooner or later, somebody will come along that slices a better cheddar. | 00:15:20,452 | 00:15:31,887
+
+Ross | Then where you gonna run? You're right. | 00:15:33,999 | 00:15:36,800
+
+Ross | I say you show him what you're made of. Stand your ground. Show him that you're the baddest Hombre west of the lingerie! | 00:15:37,036 | 00:15:45,201
+
+Ross | - I'm gonna do it! - All right! | 00:15:46,011 | 00:15:48,002
+
+Ross | Now, go see Miss Kitty and she'll fix you up with a nice hooker. | 00:15:49,081 | 00:15:52,812
+
+Ross | I don't know what to say. That's good because I'm not listening. I feel terrible. I really do. I'm sorry. Did my back hurt your knife? | 00:15:55,087 | 00:16:04,225
+
+Ross | Say that I'm friends with her. Is that so terrible? | 00:16:07,466 | 00:16:11,425
+
+Ross | - It's that terrible? - You don't get it! | 00:16:12,471 | 00:16:14,939
+
+Ross | It's bad enough she stole the guy... | 00:16:15,207 | 00:16:16,902
+
+Ross | ...who may be the person I'm supposed to be with. | 00:16:17,176 | 00:16:19,667
+
+Ross | But now... | 00:16:20,145 | 00:16:21,112
+
+Ross | ...she's actually... But now she's actually stealing you! | 00:16:22,548 | 00:16:27,578
+
+Ross | What are you talking about? Nobody could steal me from you. | 00:16:31,323 | 00:16:35,823
+
+Ross | Because I'm friends with her doesn't make me any less friends with you. | 00:16:36,061 | 00:16:40,464
+
+Ross | You're my... | 00:16:41,934 | 00:16:43,333
+
+Ross | And we're... | 00:16:45,070 | 00:16:46,401
+
+Ross | - Oh, I love you! - I love you too! | 00:16:49,608 | 00:16:52,441
+
+Ross | You guys, I know that this really doesn't have anything to do with me. | 00:16:56,915 | 00:17:01,852
+
+Ross | But I love you guys too! | 00:17:02,087 | 00:17:03,645
+
+Ross | I really needed that. | 00:17:09,661 | 00:17:11,788
+
+Ross | I know that right now... ...you really need to hate Julie's guts. But she didn't do anything wrong. | 00:17:13,665 | 00:17:21,502
+
+Ross | She's just a girl who met a guy, and now they go out. I think that if you gave her a chance, you'd like her. | 00:17:22,174 | 00:17:29,848
+
+Ross | Will you give it a chance? | 00:17:32,384 | 00:17:33,976
+
+Ross | For me? | 00:17:34,887 | 00:17:36,149
+
+Ross | I'd do anything for you, you know that. | 00:17:38,457 | 00:17:40,516
+
+Ross | I'd do anything for you! | 00:17:41,193 | 00:17:43,661
+
+Ross | Wait, wait, wait! Mornin'. | 00:17:44,596 | 00:18:05,746
+
+Ross | I said, mornin'! | 00:18:08,320 | 00:18:11,118
+
+Ross | I heard you. | 00:18:12,624 | 00:18:13,750
+
+Ross | All right, everybody. I'm opening the doors. You boys ready? | 00:18:15,327 | 00:18:20,059
+
+Ross | Ready. | 00:18:25,537 | 00:18:26,333
+
+Ross | Yeah, I'm ready. You idiot! You stupid cowboy! | 00:18:27,206 | 00:19:17,584
+
+Ross | You've blinded me! I'm suing! | 00:19:18,023 | 00:19:19,991
+
+Ross | Oh, my God! Todd! What the hell did you do? | 00:19:20,259 | 00:19:23,820
+
+Ross | Sorry. I'm such a doofus! | 00:19:24,329 | 00:19:25,887
+
+Ross | I'm so sorry. I'm so sorry. | 00:19:26,198 | 00:19:28,496
+
+Ross | My God, what happened? | 00:19:29,735 | 00:19:31,362
+
+Ross | These new kids, they never last. | 00:19:32,437 | 00:19:34,803
+
+Ross | Sooner or later they all... | 00:19:35,073 | 00:19:37,473
+
+Ross | ...stop lasting. | 00:19:38,177 | 00:19:39,872
+
+Ross | What do you say I buy you that cup of coffee now? Sure. I just thought we should hang out. I mean, you know, we've never really talked. I guess you'd know that, being one of the two of us. I know. | 00:19:40,612 | 00:20:15,302
+
+Ross | I probably shouldn't even tell you this... ...but I'm pretty much totally intimidated by you. | 00:20:16,048 | 00:20:22,612
+
+Ross | Really? | 00:20:23,789 | 00:20:24,756
+
+Ross | Me? Oh, my God, are you kidding? Ross is so crazy about you... ...and I really wanted you to like me, and I... It's probably me just being totally paranoid... ...but I kind of got the feeling that maybe you don't. | 00:20:25,057 | 00:20:40,394
+
+Ross | Well, you're not totally paranoid. When you and Ross first started going out... ...it was really hard for me... | 00:20:49,781 | 00:21:10,128
+
+Ross | ...for many reasons of which I'm not gonna bore you with now. | 00:21:12,271 | 00:21:16,435
+
+Ross | I see how happy he is and how good you guys are together. | 00:21:21,380 | 00:21:25,783
+
+Ross | And Monica's always saying how nice you are... ...and God, I hate it when she's right! | 00:21:27,019 | 00:21:33,485
+
+Ross | Thanks. Would you like to go to a movie sometime or something? Yeah, that'd be great. I'd love it. I'd love it too. | 00:21:35,661 | 00:21:46,398
+
+Ross | Shoot, I gotta go. - So I'll talk to you later. - All right, Julie. What a manipulative bitch. | 00:21:47,472 | 00:22:03,186
+
+Ross | It's not bad. | 00:22:34,486 | 00:22:35,282

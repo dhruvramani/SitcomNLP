@@ -1,4 +1,5 @@
 import os
+import re
 
 def unicodetoascii(text):
     TEXT = (text.
@@ -32,10 +33,14 @@ def unicodetoascii(text):
                  )
     return TEXT
 
+regex1 = re.compile("[\(\[].*?[\)\]]")
+regex2 = re.compile(r"[^a-zA-Z0-9\s\n]+")
 # TODO if not found go to next 4 words
 def get_timestamp(subtext, to_search):
     try :
-        x =  [x for x in subtext if unicodetoascii(to_search) in " ".join(x.split("\n")[2:])][0]
+        to_search = regex1.sub('', to_search)
+        to_search = regex2.sub('', to_search)
+        x =  [x for x in subtext if unicodetoascii(to_search) in regex2.sub('', regex1.sub('', " ".join(x.split("\n")[2:])))][0]
         return x.split("\n")[1].split(" --> ")
     except :
         return ["-1", "-1"]
@@ -80,6 +85,8 @@ def transcripttimestamp(transpath, subpath, newpath):
             #init_timestamp, end_timestamp = "-1", "-1"
 
             for sent in transtext:
+                if(":" not in sent):
+                    continue
                 speaker = sent.split(":")[0]
                 sent = sent.split(":")[1].lstrip().rstrip()
                 if(len(sent.split(" ")) <= 4):
@@ -95,6 +102,7 @@ def transcripttimestamp(transpath, subpath, newpath):
                         sec1, sec2 = int(new_init.split(":")[2].split(",")[0]), int(old_end.split(":")[2].split(",")[0])
                         if(sec1 - sec2 >= 1):
                             init_timestamp, end_timestamp = old_init, old_end
+                            print("{} : {}".format(speaker, wholesent))
                             output.append([speaker, wholesent, init_timestamp, end_timestamp])
                             wholesent = " ".join(subtext[i].split("\n")[2:])
                             old_init, old_end = new_init, new_end
@@ -114,8 +122,8 @@ def transcripttimestamp(transpath, subpath, newpath):
     return output
 
 if __name__ == '__main__':
-    transpath = "./data/transcripts/S08E01.txt"                                                                                                                
-    subpath = "./data/subtitles/s08e01.srt"                                                                                                                    
+    transpath = "./data/transcripts/FS02E02.txt"                                                                                                                
+    subpath = "./data/subtitles/FS02E02.srt"                                                                                                                    
     newpath = "./new.txt"  
     os.system("rm -rf {}".format(newpath))                                                                                                                              
     transcripttimestamp(transpath, subpath, newpath)
