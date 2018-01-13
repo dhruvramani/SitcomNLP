@@ -33,21 +33,25 @@ def unicodetoascii(text):
                  )
     return TEXT
 
-regex1 = re.compile("[\(\[].*?[\)\]]")
-regex2 = re.compile(r"[^a-zA-Z0-9\s\n]+")
+regex1 = re.compile(r'[^A-Za-z0-9\s]+')
+regex2 = re.compile(r'\([^)]*\)')
 # TODO if not found go to next 4 words
+def format_string(strin):
+    sentence = strin.lower()
+    sentence = unicodetoascii(sentence)
+    sentence = regex2.sub('', sentence)
+    sentence = regex1.sub('', sentence)
+    return sentence
+
 def get_timestamp(subtext, to_search):
     try :
-        to_search = regex1.sub('', to_search)
-        to_search = regex2.sub('', to_search)
-        x =  [x for x in subtext if unicodetoascii(to_search) in regex2.sub('', regex1.sub('', " ".join(x.split("\n")[2:])))][0]
+        x =  [x for x in subtext if to_search in format_string(" ".join(x.split("\n")[2:]))][0]
         return x.split("\n")[1].split(" --> ")
-    except :
+    except:
         return ["-1", "-1"]
         
 def search_words(sentence, subtext):
-    re.sub("[\(\[].*?[\)\]]", "", sentence)
-    sentence = unicodetoascii(sentence)
+    sentence = format_string(sentence)
     init_timestamp, end_timestamp = "-1", "-1"
     word_count = 7
     words = sentence.split(" ")
@@ -55,6 +59,7 @@ def search_words(sentence, subtext):
     while("-1" in [init_timestamp, end_timestamp] and word_count > 1):
         starting = " ".join(words[:word_count])
         ending = " ".join(words[-word_count:])
+        print(" | ".join([sentence, starting, ending]), "\n\n")
         if(init_timestamp == "-1"):
             init_timestamp = get_timestamp(subtext, starting)[0]
         if(end_timestamp == "-1"):
@@ -84,27 +89,31 @@ def transcripttimestamp(transpath, subpath, newpath):
             transtext = str(trans.read()).split("\n\n")
             subtext = str(sub.read()).split("\n\n")
             #init_timestamp, end_timestamp = "-1", "-1"
-
-            for sent in transtext:
-                if(":" not in sent):
+            new = open("./new.txt", "w+")
+            for senti in transtext:
+                if(":" not in senti):
                     continue
-                speaker = sent.split(":")[0]
-                sent = sent.split(":")[1].lstrip().rstrip()
+                sent = senti.split(":")[1].lstrip().rstrip()
                 if(len(sent.split(" ")) <= 4):
                     pass
                 else :
-                    _, _, start_ind, final_ind = search_words(sent, subtext)
+                    foo, bar, start_ind, final_ind = search_words(sent, subtext)
                     if(-1 in [start_ind, final_ind]):
                         continue
                     old_init, old_end = subtext[start_ind].split("\n")[1].split(" --> ")
                     reset, count, wholesent = 0, 0, " ".join([x for x in subtext[start_ind].split("\n")[2:] if x in sent])
+                    speaker = senti.split(":")[0]
+                    #print(senti, foo, bar, end="\n\n")
                     for i in range(start_ind + 1, final_ind + 1):
                         new_init, new_end = subtext[i].split("\n")[1].split(" --> ")
                         sec1, sec2 = int(new_init.split(":")[2].split(",")[0]), int(old_end.split(":")[2].split(",")[0])
                         if(sec1 - sec2 >= 1):
                             init_timestamp, end_timestamp = old_init, old_end
-                            print("{} : {}".format(speaker, wholesent))
-                            output.append([speaker, wholesent, init_timestamp, end_timestamp])
+                            speaker = senti.split(":")[0]
+                            to_put = [speaker, wholesent, init_timestamp, end_timestamp]
+                            new.write("{}\n\n".format(to_put))
+                            #output.append(to_put)
+                            #print(to_put, speaker)
                             wholesent = " ".join(subtext[i].split("\n")[2:])
                             old_init, old_end = new_init, new_end
                         else :
@@ -112,19 +121,23 @@ def transcripttimestamp(transpath, subpath, newpath):
                             old_end = new_end
                     
                     init_timestamp, end_timestamp = old_init, old_end
-                    output.append([speaker, wholesent, init_timestamp, end_timestamp])
+                    speaker = senti.split(":")[0]
+                    to_put = [speaker, wholesent, init_timestamp, end_timestamp]
+                    new.write("{}\n\n".format(to_put))
+                    #output.append()
                     wholesent = ""
+            new.close()
 
 
 
-    with open(newpath, "w+") as new:
-        new.write("\n\n".join([" | ".join(sent) for sent in output]))
+    ##with open(newpath, "w+") as new:
+    ##    new.write("\n\n".join([" | ".join(sent) for sent in output]))
             
     return output
 
 if __name__ == '__main__':
-    transpath = "./data/transcripts/FS02E02.txt"                                                                                                                
-    subpath = "./data/subtitles/FS02E02.srt"                                                                                                                    
+    transpath = "./data/transcripts/S08E01.txt"                                                                                                                
+    subpath = "./data/subtitles/s08e01.srt"                                                                                                                    
     newpath = "./new.txt"  
     os.system("rm -rf {}".format(newpath))                                                                                                                              
     transcripttimestamp(transpath, subpath, newpath)
