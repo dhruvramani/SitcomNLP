@@ -1,4 +1,5 @@
 import os
+import glob
 import time
 import pickle
 from datetime import datetime
@@ -34,20 +35,23 @@ def vidtowav(filename):
     return "./data/audio/{}_audio.wav".format(filename)
 
 def detect_laughter(wavpath):
-    os.system("python laughter-detection/segment_laughter.py {} laughter-detection/models/new_model.h5 data/dump > data/testii/laughtime.txt")
-    with open("data/testi/laughtime.txt", "r") as f:
+    command = "python ./laughter-detection/segment_laughter.py {} ./laughter-detection/models/new_model.h5 ./data/dump > ./data/laugh/{}.txt".format(wavpath, wavpath.split(".")[0])
+    os.system(command)
+    with open("./data/laugh/{}.txt".format(wavpath.split(".")[0]), "r") as f:
         return str(f.read())
-    # Might process timesteps
 
-def timefortrans(transpath, wavpath):
-    with open(transpath, "r") as f:
-        with open("{}.tmp".format(transpath), "w+") as wr:
-            for line in f:
-                if("Scene" not in line and ":" in line):
-                    wr.write("{}\n".format(line.split(" : ")))
+def deletesub(path):
+    for i in glob.glob("{}*.srt".format(path)):
+        if("xor" in i.lower() or "dvdrip" in i.lower()):
+            print(i)
+            os.system("sudo rm {}".format("\ ".join(i.split(" "))))
 
-    os.system("python gentle/align.py {} {}.tmp > ./data/testi/transtime.txt".format(wavpath, transpath))
-    os.system("rm {}.tmp".format(transpath))
+def formatsub(path):
+    for i in glob.glob("{}*.srt".format(path)):
+        name = i.split(" - ")[1]
+        print(name)
+        os.system("sudo mv {} {}{}.srt".format("\ ".join(i.split(" ")), path, name))
+
 
 '''
 def main(datasetpath, vidfilepath, subfilepath, transpath):
