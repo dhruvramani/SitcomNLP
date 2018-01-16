@@ -1,57 +1,11 @@
 import os
 import re
 import csv
-from utils import detect_laughter
-
-def unicodetoascii(text):
-    TEXT = (text.
-            replace('\xe2\x80\x99', "'").
-            replace('\xc3\xa9', 'e').
-            replace('\xe2\x80\x90', '-').
-            replace('\xe2\x80\x91', '-').
-            replace('\xe2\x80\x92', '-').
-            replace('\xe2\x80\x93', '-').
-            replace('\xe2\x80\x94', '-').
-            replace('\xe2\x80\x94', '-').
-            replace('\xe2\x80\x98', "'").
-            replace('\xe2\x80\x9b', "'").
-            replace('\xe2\x80\x9c', '"').
-            replace('\xe2\x80\x9c', '"').
-            replace('\xe2\x80\x9d', '"').
-            replace('\xe2\x80\x9e', '"').
-            replace('\xe2\x80\x9f', '"').
-            replace('\xe2\x80\xa6', '...').#
-            replace('\xe2\x80\xb2', "'").
-            replace('\xe2\x80\xb3', "'").
-            replace('\xe2\x80\xb4', "'").
-            replace('\xe2\x80\xb5', "'").
-            replace('\xe2\x80\xb6', "'").
-            replace('\xe2\x80\xb7', "'").
-            replace('\xe2\x81\xba', "+").
-            replace('\xe2\x81\xbb', "-").
-            replace('\xe2\x81\xbc', "=").
-            replace('\xe2\x81\xbd', "(").
-            replace('\xe2\x81\xbe', ")")
-                 )
-    return TEXT
+from utils import detect_laughter, format_string
 
 count = 1
 regex1 = re.compile(r'[^A-Za-z0-9\s]+')
 regex2 = re.compile(r'\([^)]*\)')
-
-def format_string(strin):
-    sentence = strin.lower()
-    sentence = unicodetoascii(sentence)
-    sentence = regex2.sub('', sentence)
-    sentence = regex1.sub('', sentence)
-    return sentence
-
-def get_timestamp(subtext, to_search):
-    try :
-        x =  [x for x in subtext if to_search in format_string(" ".join(x.split("\n")[2:]))][0]
-        return x.split("\n")[1].split(" --> ")
-    except:
-        return ["-1", "-1"]
 
 def modifylaugh(csvpath, newpath):
     with open(newpath, "w+") as new:
@@ -81,6 +35,14 @@ def modifylaugh(csvpath, newpath):
                 newrow = row.append(laugh)
                 writer.writerow(newrow)
                 previnit = init_t
+
+def get_timestamp(subtext, to_search):
+    try :
+        x =  [x for x in subtext if to_search in format_string(" ".join(x.split("\n")[2:]))][0]
+        return x.split("\n")[1].split(" --> ")
+    except:
+        return ["-1", "-1"]
+
         
 def search_words(sentence, subtext):
     sentence = format_string(sentence)
