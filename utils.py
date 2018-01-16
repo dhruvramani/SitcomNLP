@@ -1,9 +1,13 @@
 import os
+import re
 import glob
 import time
 import pickle
 from datetime import datetime
 import moviepy.editor as mp
+
+regex1 = re.compile(r'[^A-Za-z0-9\s]+')
+regex2 = re.compile(r'\([^)]*\)')
 
 def vidtomp3(filename):
     # SOURCE : https://stackoverflow.com/questions/33448759/python-converting-video-to-audio

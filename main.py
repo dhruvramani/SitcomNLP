@@ -4,8 +4,6 @@ import csv
 from utils import detect_laughter, format_string
 
 count = 1
-regex1 = re.compile(r'[^A-Za-z0-9\s]+')
-regex2 = re.compile(r'\([^)]*\)')
 
 def modifylaugh(csvpath, newpath):
     with open(newpath, "w+") as new:
