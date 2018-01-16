@@ -1,7 +1,7 @@
-data/videos
-data/audio
+data/
 laughter-detection/
 gentle/
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

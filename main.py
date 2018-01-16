@@ -1,6 +1,7 @@
 import os
 import re
 import csv
+from utils import detect_laughter
 
 def unicodetoascii(text):
     TEXT = (text.
@@ -64,9 +65,9 @@ def modifylaugh(csvpath, newpath):
             for row in readCSV:
                 if(previnit == ""):
                     continue
-                laughpath = "./data/laughwav/BBTS0{}/{}x{}.wav".format(season, season, episode)
-                laughjson = open(laughpath, "r")
-                laughfile, laugh = laughjson.read().split("\n")[1:], False
+                wavpath = "./data/laughwav/BBTS0{}/{}x{}.wav".format(season, season, episode)
+                laughjson = detect_laughter(wavpath)
+                laughfile, laugh = laughjson.split("\n")[1:], False
                 _, season, episode, _, _, init_timestamp, end_timestamp = row
                 init_t, end_t = get_sec(init_timestamp), get_sec(end_timestamp)
 
