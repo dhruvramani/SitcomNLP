@@ -1,38 +1,46 @@
 import os
 import re
 import csv
-from utils import detect_laughter, format_string
+import json
+from utils import detect_laughter, format_string, get_sec, get_demo
 
 count = 1
-
 def modifylaugh(csvpath, newpath):
     with open(newpath, "w+") as new:
         fields = ['ID', 'SEASON', 'EPISODE', 'SPEAKER', 'SENTENCE', 'STARTING TIMESTAMP', 'ENDING TIMESTAMP', 'LAUGH']
         writer = csv.writer(new, delimiter=',', quotechar='"', quoting=csv.QUOTE_NONNUMERIC)                                                                                                                 
         writer.writerow(fields)
+        laughfile, old_wav = None, ""
     
         with open(csvpath, "r") as cf:
             readCSV = csv.reader(cf, delimiter=',')
             previnit = ""
             for row in readCSV:
-                if(previnit == ""):
-                    continue
-                wavpath = "./data/laughwav/BBTS0{}/{}x{}.wav".format(season, season, episode)
-                laughjson = detect_laughter(wavpath)
-                laughfile, laugh = laughjson.split("\n")[1:], False
                 _, season, episode, _, _, init_timestamp, end_timestamp = row
                 init_t, end_t = get_sec(init_timestamp), get_sec(end_timestamp)
+                wavpath = "./data/laughwav/BBTS0{}/{}x{}.wav".format(season, season, episode)
+                if('ID' in row):
+                    continue
+                if(laughfile == None or old_wav != wavpath):
+                    laughjson = detect_laughter(wavpath) #get_demo() 
+                    laughfile = laughjson.split("\n")[1:]
+                laugh = False
+
+                if(previnit == ""):
+                    previnit = init_t
+                    continue
 
                 for i in laughfile:
-                    jsondat = json.loads(i)[0]
+                    jsondat = json.loads(i)
                     start, end = float(jsondat['start']), float(jsondat['end'])
                     if((start > previnit and start < init_t) or (end > previnit and end < init_t)):
                         laugh = True
                         break
 
-                newrow = row.append(laugh)
-                writer.writerow(newrow)
+                row.append(laugh)
+                writer.writerow(row)
                 previnit = init_t
+                old_wav = wavpath
 
 def get_timestamp(subtext, to_search):
     try :
@@ -41,7 +49,6 @@ def get_timestamp(subtext, to_search):
     except:
         return ["-1", "-1"]
 
-        
 def search_words(sentence, subtext):
     sentence = format_string(sentence)
     init_timestamp, end_timestamp = "-1", "-1"
@@ -131,7 +138,8 @@ if __name__ == '__main__':
     _SEASONS = 9
     _EPISODES = [17, 23, 23, 24, 24, 22, 24, 24, 24]
     fields = ['ID', 'SEASON', 'EPISODE', 'SPEAKER', 'SENTENCE', 'STARTING TIMESTAMP', 'ENDING TIMESTAMP']
-    newpath = "./output/new_bbt.csv"  
+    newpath = "./output/new_bbt.csv" 
+    laughpath = "./output/new_bbt-laugh.csv" 
     
     with open(newpath, "w+") as new:
         writer = csv.writer(new, delimiter=',', quotechar='"', quoting=csv.QUOTE_NONNUMERIC)                                                                                                                 
@@ -140,3 +148,19 @@ if __name__ == '__main__':
     for season in range(1, _SEASONS + 1):
         for episode in range(1, _EPISODES[season - 1] + 1):                                                                                                                    
             transcripttimestamp(season, episode, newpath)
+
+    modifylaugh(newpath, laughpath)
+
+    '''
+    # Demo
+    fields = ['ID', 'SEASON', 'EPISODE', 'SPEAKER', 'SENTENCE', 'STARTING TIMESTAMP', 'ENDING TIMESTAMP']
+    newpath = "./output/s08e01.csv"  
+    path2 = "./output/s08e01-laugh.csv"
+    
+    with open(newpath, "w+") as new:
+        writer = csv.writer(new, delimiter=',', quotechar='"', quoting=csv.QUOTE_NONNUMERIC)                                                                                                                 
+        writer.writerow(fields)
+    
+    transcripttimestamp(8, 1, newpath)
+    modifylaugh(newpath, path2)
+    '''

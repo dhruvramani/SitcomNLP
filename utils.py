@@ -25,7 +25,7 @@ def detect_laughter(wavpath):
     command = "python ./laughter-detection/segment_laughter.py {} ./laughter-detection/models/new_model.h5 ./data/dump > ./data/laugh/{}.txt".format(wavpath, wavpath.split(".")[0])
     os.system(command)
     with open("./data/laugh/{}.txt".format(wavpath.split(".")[0]), "r") as f:
-        return str(f.read())
+        return str(f.read()).replace('\'', '\"')
 
 def deletesub(path):
     for i in glob.glob("{}*.srt".format(path)):
@@ -38,6 +38,10 @@ def formatsub(path):
         name = i.split(" - ")[1]
         print(name)
         os.system("sudo mv {} {}{}.srt".format("\ ".join(i.split(" ")), path, name))
+
+def get_sec(time_str):
+    h, m, s = time_str.split(',')[0].split(':')
+    return int(h) * 3600 + int(m) * 60 + int(s)
 
 def unicodetoascii(text):
     TEXT = (text.
@@ -70,6 +74,10 @@ def unicodetoascii(text):
             replace('\xe2\x81\xbe', ")")
                  )
     return TEXT
+
+def get_demo():
+    with open("./data/laugh/s08e01.txt", "r") as f:
+        return str(f.read())
 
 def format_string(strin):
     sentence = strin.lower()
