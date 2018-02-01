@@ -2,7 +2,7 @@ import os
 import re
 import csv
 import json
-from utils import detect_laughter, format_string, get_sec, get_demo
+from utils import detect_laughter, format_string, get_sec, get_demo, vidtowav
 
 count = 1
 def modifylaugh(csvpath, newpath):
@@ -18,10 +18,13 @@ def modifylaugh(csvpath, newpath):
             for row in readCSV:
                 _, season, episode, _, _, init_timestamp, end_timestamp = row
                 init_t, end_t = get_sec(init_timestamp), get_sec(end_timestamp)
-                wavpath = "./data/laughwav/BBTS0{}/{}x{}.wav".format(season, season, episode)
+                wavpath = "./data/audio/BBTS0{}/{}x{}.wav".format(season, season, episode)
                 if('ID' in row):
                     continue
+
                 if(laughfile == None or old_wav != wavpath):
+                    if(not os.path.isfile(wavpath)):
+                        vidtowav(season, episode)
                     laughjson = detect_laughter(wavpath) #get_demo() 
                     laughfile = laughjson.split("\n")[1:]
                 laugh = False
@@ -76,7 +79,7 @@ def search_words(sentence, subtext):
     return init_timestamp, end_timestamp, start_ind, final_ind
 
 def transcripttimestamp(season, episode, newpath):
-    """Returns a dictionary of format dict[sentence] = [initial_timestamp, ending_timestamp, speaker]
+    """Reads transcripts and subtitles to generate CSV dataset.
 
        Keyword arguments:
        transpath - path to your transcript file
@@ -84,9 +87,8 @@ def transcripttimestamp(season, episode, newpath):
        newpath   - path to store the info in the format
     """
     global count
-    output = list()
     print(season, episode)
-    transpath = "./data/transcripts/raw_corpus/{}_{}.txt".format(season, episode)                                                                                                              
+    transpath = "./data/transcripts/BBTS0{}/{}x{}.txt".format(season, season, episode) # raw_corpus/{}_{}                                                                                               
     subpath = "./data/subtitles/BBTS0{}/{}x{}.srt".format(season, season, episode) 
     with open(transpath, "r") as trans:
         with open(subpath, "r", encoding = "ISO-8859-1") as sub:
@@ -132,7 +134,6 @@ def transcripttimestamp(season, episode, newpath):
                     count += 1
                     wholesent = ""
             new.close()
-    return output
 
 if __name__ == '__main__':
     _SEASONS = 9

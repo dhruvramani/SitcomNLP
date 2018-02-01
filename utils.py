@@ -15,11 +15,10 @@ def vidtomp3(filename):
     clip.audio.write_audiofile("{}_audio.mp3".format(filename))
     return "{}_audio.mp3".format(filename)
 
-def vidtowav(filename):
+def vidtowav(season, episode):
     # SOURCE : https://stackoverflow.com/questions/26741116/python-extract-wav-from-video-file
-    command = "ffmpeg -i ./data/videos/{}.mp4 -ab 160k -ac 2 -ar 44100 -vn ./data/audio/{}_audio.wav".format(filename, filename)
+    command = "ffmpeg -i ./data/videos/BBTS0{}/{}x{}.mp4 -ab 160k -ac 2 -ar 44100 -vn ./data/audio/BBTS0{}/{}x{}.wav".format(season, season, episode, season, season, episode)
     os.system(command)
-    return "./data/audio/{}_audio.wav".format(filename)
 
 def detect_laughter(wavpath):
     command = "python ./laughter-detection/segment_laughter.py {} ./laughter-detection/models/new_model.h5 ./data/dump > ./data/laugh/{}.txt".format(wavpath, wavpath.split(".")[0])
@@ -86,5 +85,24 @@ def format_string(strin):
     sentence = regex1.sub('', sentence)
     return sentence
 
+def setup():
+    _SEASONS = 9
+    os.system("mkdir ./data")
+    os.system("mkdir ./output")
+    os.system("mkdir ./data/videos")
+    os.system("mkdir ./data/transcripts")
+    os.system("mkdir ./data/audio")
+    os.system("mkdir ./data/dump")
+    os.system("mkdir ./data/laugh")
+    os.system("sudo apt-get install ffmpeg")
+    os.system("pip install moviepy")
+    os.system("git clone https://github.com/dhruvramani/laughter-detection")
+
+    for season in range(1, _SEASONS + 1):
+        os.system("mkdir ./data/videos/BBTS0{}".format(season))
+        os.system("mkdir ./data/transcripts/BBTS0{}".format(season))
+        os.system("mkdir ./data/audio/BBTS0{}".format(season))
+
+
 if __name__ == '__main__':
-    wavpath = vidtowav("S08E01")
+    setup()
